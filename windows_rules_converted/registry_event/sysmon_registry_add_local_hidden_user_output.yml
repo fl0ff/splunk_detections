@@ -1,0 +1,1 @@
+((EventID="12" OR EventID="13" OR EventID="14") TargetObject="HKLM\\SAM\\SAM\\Domains\\Account\\Users\\Names\\*" TargetObject="*$" Image="*lsass.exe")

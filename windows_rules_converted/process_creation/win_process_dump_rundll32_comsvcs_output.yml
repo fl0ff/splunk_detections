@@ -1,0 +1,1 @@
+(EventID="1" (CommandLine="*comsvcs.dll,#24*" OR CommandLine="*comsvcs.dll,MiniDump*" OR CommandLine="*comsvcs.dll MiniDump*"))

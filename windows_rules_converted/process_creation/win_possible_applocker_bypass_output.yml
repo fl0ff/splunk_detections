@@ -1,0 +1,1 @@
+(EventID="1" (CommandLine="*\\msdt.exe*" OR CommandLine="*\\installutil.exe*" OR CommandLine="*\\regsvcs.exe*" OR CommandLine="*\\regasm.exe*" OR CommandLine="*\\msbuild.exe*" OR CommandLine="*\\ieexec.exe*"))

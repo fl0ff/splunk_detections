@@ -1,0 +1,1 @@
+(((EventID="4768" TargetUserName="*$" CertThumbprint="*") NOT (IpAddress="::1")) NOT (CertThumbprint=""))

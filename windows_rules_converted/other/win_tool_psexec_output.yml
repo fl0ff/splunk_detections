@@ -1,0 +1,4 @@
+(ServiceName="PSEXESVC" ((EventID="7045" ServiceFileName="*\\PSEXESVC.exe") OR EventID="7036")) | table EventID,CommandLine,ParentCommandLine,ServiceName,ServiceFileName,TargetFilename,PipeName
+(EventID="1" Image="*\\PSEXESVC.exe" (User="NT AUTHORITY\\SYSTEM*" OR User="AUTORITE NT\\Sys*")) | table EventID,CommandLine,ParentCommandLine,ServiceName,ServiceFileName,TargetFilename,PipeName
+((EventID="17" OR EventID="18") PipeName="\\PSEXESVC") | table EventID,CommandLine,ParentCommandLine,ServiceName,ServiceFileName,TargetFilename,PipeName
+(EventID="11" TargetFilename="*\\PSEXESVC.exe") | table EventID,CommandLine,ParentCommandLine,ServiceName,ServiceFileName,TargetFilename,PipeName

@@ -1,0 +1,1 @@
+(EventID="1" (EventID="1" ((OriginalFileName="procdump" OR (CommandLine="* -ma *" CommandLine="* -accepteula *")) OR (CommandLine="* -ma *" CommandLine="*.dmp*"))) NOT ((Image="*\\procdump.exe" OR Image="*\\procdump64.exe")))

@@ -1,0 +1,1 @@
+(EventID="1" ((CommandLine="*DumpCreds*" OR CommandLine="*invoke-mimikatz*") OR ((CommandLine="*rpc*" OR CommandLine="*token*" OR CommandLine="*crypto*" OR CommandLine="*dpapi*" OR CommandLine="*sekurlsa*" OR CommandLine="*kerberos*" OR CommandLine="*lsadump*" OR CommandLine="*privilege*" OR CommandLine="*process*") (CommandLine="*::*"))))

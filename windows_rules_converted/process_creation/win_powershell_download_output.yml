@@ -1,0 +1,1 @@
+(EventID="1" Image="*\\powershell.exe" CommandLine="*new-object*" CommandLine="*net.webclient).*" CommandLine="*download*" (CommandLine="*string(*" OR CommandLine="*file(*")) | table CommandLine,ParentCommandLine

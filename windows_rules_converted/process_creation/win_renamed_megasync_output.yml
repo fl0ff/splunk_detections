@@ -1,0 +1,1 @@
+(EventID="1" ((ParentImage="*\\explorer.exe" CommandLine="*C:\\Windows\\Temp\\meg.exe*") OR (EventID="1" OriginalFileName="meg.exe" NOT (Image="*\\meg.exe"))))

@@ -1,0 +1,1 @@
+((EventID="4776" Workstation="RULER") OR ((EventID="4624" OR EventID="4625") WorkstationName="RULER"))

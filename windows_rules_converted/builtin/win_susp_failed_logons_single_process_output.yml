@@ -1,0 +1,1 @@
+((EventID="4625" LogonType="2") NOT (ProcessName="-")) | eventstats dc(TargetUserName) as val by ProcessName | search val > 10

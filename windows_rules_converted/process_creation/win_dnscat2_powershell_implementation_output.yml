@@ -1,0 +1,1 @@
+(EventID="1" ParentImage="*\\powershell.exe" Image="*\\nslookup.exe" CommandLine="*\\nslookup.exe") | eventstats dc(Image) as val by ParentImage | search val > 100 | table Image,CommandLine,ParentImage

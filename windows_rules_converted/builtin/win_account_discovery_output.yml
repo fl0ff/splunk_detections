@@ -1,0 +1,1 @@
+((EventID="4661" (ObjectType="SAM_USER" OR ObjectType="SAM_GROUP")) ((ObjectName="*-512" OR ObjectName="*-502" OR ObjectName="*-500" OR ObjectName="*-505" OR ObjectName="*-519" OR ObjectName="*-520" OR ObjectName="*-544" OR ObjectName="*-551" OR ObjectName="*-555") OR ObjectName="*admin*"))

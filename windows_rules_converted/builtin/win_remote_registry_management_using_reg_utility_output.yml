@@ -1,0 +1,1 @@
+((EventID="5145" RelativeTargetName="*\\winreg*") NOT (IpAddress="%Admins_Workstations%"))

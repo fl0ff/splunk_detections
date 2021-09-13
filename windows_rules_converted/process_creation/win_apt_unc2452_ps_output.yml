@@ -1,0 +1,1 @@
+(EventID="1" ((CommandLine="*Invoke-WMIMethod win32_process -name create -argumentlist*" CommandLine="*rundll32 c:\\windows*") OR (CommandLine="*wmic /node:*" CommandLine="*process call create \"rundll32 c:\\windows*")))

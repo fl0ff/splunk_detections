@@ -1,0 +1,1 @@
+(EventID="4656" ObjectType="Key" ObjectName="*\\SAM") | table ComputerName,SubjectDomainName,SubjectUserName,ProcessName,ObjectName

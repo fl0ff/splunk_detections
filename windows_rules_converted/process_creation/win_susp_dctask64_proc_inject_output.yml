@@ -1,0 +1,1 @@
+(EventID="1" (Image="*\\dctask64.exe") NOT ((CommandLine="*DesktopCentral_Agent\\agent*"))) | table CommandLine,ParentCommandLine,ParentImage

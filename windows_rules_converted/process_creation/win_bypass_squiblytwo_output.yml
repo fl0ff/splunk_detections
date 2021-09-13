@@ -1,0 +1,1 @@
+(EventID="1" CommandLine="*http*" (((Image="*\\wmic.exe") CommandLine="*wmic*" CommandLine="*format*") OR ((Imphash="1B1A3F43BF37B5BFE60751F2EE2F326E" OR Imphash="37777A96245A3C74EB217308F3546F4C" OR Imphash="9D87C9D67CE724033C0B40CC4CA1B206") CommandLine="*format:*")))

@@ -1,0 +1,1 @@
+(EventID="1" (IntegrityLevel="High" OR IntegrityLevel="System") ParentImage="*\\ieinstal.exe" Image="*\\AppData\\Local\\Temp\\*" Image="*consent.exe")

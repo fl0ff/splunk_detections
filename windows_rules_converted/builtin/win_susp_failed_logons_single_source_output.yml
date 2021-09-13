@@ -1,0 +1,2 @@
+((EventID="529" OR EventID="4625") TargetUserName="*" WorkstationName="*") | eventstats dc(TargetUserName) as val by WorkstationName | search val > 3
+(EventID="4776" TargetUserName="*" Workstation="*") | eventstats dc(TargetUserName) as val by Workstation | search val > 3

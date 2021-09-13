@@ -1,0 +1,1 @@
+(EventID="1" Image="*\\cmstp.exe" (CommandLine="*/s*" OR CommandLine="*/au*")) | table ComputerName,User,CommandLine

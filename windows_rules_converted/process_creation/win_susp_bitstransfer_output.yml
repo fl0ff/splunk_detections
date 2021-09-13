@@ -1,0 +1,1 @@
+(EventID="1" (Image="*\\powershell.exe" OR Image="*\\powershell_ise.exe" OR Image="*\\pwsh.exe") (CommandLine="*Get-BitsTransfer*" OR CommandLine="*Add-BitsFile*")) | table ComputerName,User,CommandLine

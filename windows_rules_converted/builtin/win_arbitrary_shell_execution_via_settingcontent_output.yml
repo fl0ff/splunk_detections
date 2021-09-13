@@ -1,0 +1,1 @@
+(CommandLine="*.SettingContent-ms*" NOT (FilePath="*immersivecontrolpanel*")) | table ParentProcess,CommandLine,ParentCommandLine

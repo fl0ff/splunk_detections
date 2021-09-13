@@ -1,0 +1,1 @@
+(EventID="1" ParentImage="*\\regsvr32.exe" NOT ((CommandLine="*.dll*" OR CommandLine="*.ocx*" OR CommandLine="*.cpl*" OR CommandLine="*.ax*" OR CommandLine="*.bav*" OR CommandLine="*.ppl*"))) | table CommandLine,ParentCommandLine

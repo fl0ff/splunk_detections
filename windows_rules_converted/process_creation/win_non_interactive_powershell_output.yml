@@ -1,0 +1,1 @@
+(EventID="1" Image="*\\powershell.exe" NOT ((ParentImage="*\\explorer.exe" OR ParentImage="*\\CompatTelRunner.exe")))

@@ -1,0 +1,1 @@
+(EventID="1" (Image="*\\curl.exe" OR Product="The curl executable") CommandLine="* -O *") | table CommandLine,ParentCommandLine

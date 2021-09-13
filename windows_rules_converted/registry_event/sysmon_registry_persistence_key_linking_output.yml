@@ -1,0 +1,1 @@
+((EventID="12" OR EventID="13" OR EventID="14") EventType="CreateKey" TargetObject="*HKU\\*" TargetObject="*_Classes\\CLSID\\*" TargetObject="*\\TreatAs*")

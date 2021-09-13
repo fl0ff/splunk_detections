@@ -1,0 +1,1 @@
+((EventID="12" OR EventID="13" OR EventID="14") ((TargetObject="HKLM\\SYSTEM\\CurrentControlSet\\Control\\MiniNt" EventType="CreateKey") OR NewName="HKLM\\SYSTEM\\CurrentControlSet\\Control\\MiniNt")) | table EventID,Image,TargetObject,NewName

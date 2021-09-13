@@ -1,0 +1,2 @@
+(EventID="4104" ScriptBlockText="*get-itemProperty*" ScriptBlockText="*\\software\\*" ScriptBlockText="*select-object*" ScriptBlockText="*format-table*")
+(EventID="1" Image="*\\reg.exe" CommandLine="*query*" CommandLine="*\\software\\*" CommandLine="*/v*" CommandLine="*svcversion*")

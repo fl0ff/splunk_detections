@@ -1,0 +1,1 @@
+(((((EventID="4738" NOT (AllowedToDelegateTo="-")) NOT (NOT AllowedToDelegateTo="*")) OR (EventID="5136" AttributeLDAPDisplayName="msDS-AllowedToDelegateTo")) OR (EventID="5136" ObjectClass="user" AttributeLDAPDisplayName="servicePrincipalName")) OR (EventID="5136" AttributeLDAPDisplayName="msDS-AllowedToActOnBehalfOfOtherIdentity"))

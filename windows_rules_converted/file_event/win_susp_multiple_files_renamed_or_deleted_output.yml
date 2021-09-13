@@ -1,0 +1,1 @@
+(EventID="4663" ObjectType="File" AccessList="%%1537" Keywords="0x8020000000000000") | eventstats count as val by SubjectLogonId| search val > 10

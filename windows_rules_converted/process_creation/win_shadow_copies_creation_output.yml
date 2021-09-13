@@ -1,0 +1,1 @@
+(EventID="1" (Image="*\\powershell.exe" OR Image="*\\wmic.exe" OR Image="*\\vssadmin.exe") CommandLine="*shadow*" CommandLine="*create*")

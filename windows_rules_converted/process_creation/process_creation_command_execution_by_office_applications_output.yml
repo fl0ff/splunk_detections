@@ -1,0 +1,1 @@
+(EventLog="EDR" EventType="WMIExecution" WMIcommand="*Win32_Process\\:\\:Create*" (Image="*\\winword.exe" OR Image="*\\excel.exe" OR Image="*\\powerpnt.exe"))

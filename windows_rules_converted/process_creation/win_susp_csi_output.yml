@@ -1,0 +1,1 @@
+(EventID="1" (Image="*\\csi.exe" OR Image="*\\rcsi.exe" OR OriginalFileName="csi.exe" OR OriginalFileName="rcsi.exe") Company="Microsoft Corporation") | table ComputerName,User,CommandLine,ParentCommandLine

@@ -1,0 +1,4 @@
+(EventID="7045" (ServiceName="SC Scheduled Scan" OR ServiceName="UpdatMachine"))
+(EventID="4698" (TaskName="SC Scheduled Scan" OR TaskName="UpdatMachine"))
+((EventID="12" OR EventID="13" OR EventID="14") (TargetObject="*SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\UMe" OR TargetObject="*SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\UT"))
+(EventID="1" ((CommandLine="*\\Service.exe*" (CommandLine="*i" OR CommandLine="*u")) OR (CommandLine="*\\microsoft\\Taskbar\\autoit3.exe" OR CommandLine="C:\\wsc.exe*") OR (Image="*\\Windows\\Temp\\DB\\*" Image="*.exe") OR (CommandLine="*\\nslookup.exe*" CommandLine="*-q=TXT*" ParentImage="*\\Autoit*")))

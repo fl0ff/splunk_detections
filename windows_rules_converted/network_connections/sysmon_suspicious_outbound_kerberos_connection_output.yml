@@ -1,0 +1,1 @@
+(EventID="3" (DestinationPort="88" Initiated="true") NOT ((Image="*\\lsass.exe" OR Image="*\\opera.exe" OR Image="*\\chrome.exe" OR Image="*\\firefox.exe")))

@@ -1,0 +1,1 @@
+(EventID="1" ((CommandLine="*setup0.exe -p*") OR (CommandLine="*setup.exe*" (CommandLine="*-x:0" OR CommandLine="*-x:1" OR CommandLine="*-x:2"))))

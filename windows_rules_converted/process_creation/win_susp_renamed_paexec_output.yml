@@ -1,0 +1,1 @@
+(EventID="1" (EventID="1" (Description="PAExec Application" OR OriginalFileName="PAExec.exe")) NOT ((Image="*\\PAexec.exe" OR Image="*\\paexec.exe")))

@@ -1,0 +1,1 @@
+(EventID="3" ParentImage="*\\msbuild.exe" (DestinationPort="80" OR DestinationPort="443") Initiated="true")

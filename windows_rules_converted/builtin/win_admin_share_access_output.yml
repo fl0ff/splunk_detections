@@ -1,0 +1,1 @@
+((EventID="5140" ShareName="Admin$") NOT (SubjectUserName="*$"))

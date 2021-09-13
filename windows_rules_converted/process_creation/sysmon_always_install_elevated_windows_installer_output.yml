@@ -1,0 +1,1 @@
+(EventID="1" (User="NT AUTHORITY\\SYSTEM*" OR User="AUTORITE NT\\Sys*") ((Image="*\\Windows\\Installer\\*" Image="*msi*" (Image="*tmp")) OR ((Image="*\\msiexec.exe") IntegrityLevel="System"))) | table IntegrityLevel,User,Image

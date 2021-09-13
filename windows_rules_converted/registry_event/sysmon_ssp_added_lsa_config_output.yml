@@ -1,0 +1,1 @@
+((EventID="12" OR EventID="13" OR EventID="14") (TargetObject="HKLM\\System\\CurrentControlSet\\Control\\Lsa\\Security Packages" OR TargetObject="HKLM\\System\\CurrentControlSet\\Control\\Lsa\\OSConfig\\Security Packages") NOT (Image="C:\\Windows\\system32\\msiexec.exe" OR Image="C:\\Windows\\syswow64\\MsiExec.exe"))

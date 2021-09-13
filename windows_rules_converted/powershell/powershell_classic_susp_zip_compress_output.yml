@@ -1,0 +1,1 @@
+(HostApplication="*Compress-Archive *" HostApplication="* -Path *" HostApplication="* -DestinationPath *" HostApplication="*$env:TEMP\\*")

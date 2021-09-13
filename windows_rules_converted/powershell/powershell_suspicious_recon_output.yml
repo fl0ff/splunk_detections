@@ -1,0 +1,1 @@
+(EventID="4104" (ScriptBlockText="*Get-Service *" OR ScriptBlockText="*Get-ChildItem *" OR ScriptBlockText="*Get-Process *") ScriptBlockText="*> $env:TEMP\\*")

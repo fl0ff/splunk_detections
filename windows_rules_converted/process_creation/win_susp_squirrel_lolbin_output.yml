@@ -1,0 +1,1 @@
+(EventID="1" Image="*\\update.exe" (CommandLine="*--processStart*" OR CommandLine="*--processStartAndWait*" OR CommandLine="*--createShortcut*") CommandLine="*.exe*")

@@ -1,0 +1,1 @@
+(EventID="1" (Image="*\\wscript.exe" OR Image="*\\cscript.exe") (CommandLine="*.jse*" OR CommandLine="*.vbe*" OR CommandLine="*.js*" OR CommandLine="*.vba*")) | table CommandLine,ParentCommandLine

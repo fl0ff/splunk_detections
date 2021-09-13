@@ -1,0 +1,1 @@
+((EventID="40300" OR EventID="40301" OR EventID="40302") ("HybridConnection" OR "sb://" OR "servicebus.windows.net" OR "HybridConnectionManage"))

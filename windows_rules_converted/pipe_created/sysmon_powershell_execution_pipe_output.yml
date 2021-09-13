@@ -1,0 +1,1 @@
+((EventID="17" OR EventID="18") PipeName="\\PSHost*")

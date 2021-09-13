@@ -1,0 +1,1 @@
+(EventID="1" (CommandLine="netsh firewall set opmode mode=disable" OR CommandLine="netsh advfirewall set * state off"))

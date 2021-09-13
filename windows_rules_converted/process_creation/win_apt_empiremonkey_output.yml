@@ -1,0 +1,1 @@
+(EventID="1" CommandLine="*/i:%APPDATA%\\logs.txt scrobj.dll" (Image="*\\cutil.exe" OR Description="Microsoft(C) Registerserver"))

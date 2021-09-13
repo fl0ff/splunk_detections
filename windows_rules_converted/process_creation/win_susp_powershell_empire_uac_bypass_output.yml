@@ -1,0 +1,1 @@
+(EventID="1" (CommandLine="* -NoP -NonI -w Hidden -c $x=$((gp HKCU:Software\\Microsoft\\Windows Update).Update)*" OR CommandLine="* -NoP -NonI -c $x=$((gp HKCU:Software\\Microsoft\\Windows Update).Update);*")) | table CommandLine,ParentCommandLine

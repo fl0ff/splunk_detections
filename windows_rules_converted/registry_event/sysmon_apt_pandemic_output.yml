@@ -1,0 +1,2 @@
+((EventID="12" OR EventID="13" OR EventID="14") TargetObject="*\\SYSTEM\\CurrentControlSet\\services\\null\\Instance*") | table EventID,CommandLine,ParentCommandLine,Image,User,TargetObject
+(EventID="1" CommandLine="*loaddll -a *") | table EventID,CommandLine,ParentCommandLine,Image,User,TargetObject

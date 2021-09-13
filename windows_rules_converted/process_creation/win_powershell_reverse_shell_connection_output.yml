@@ -1,0 +1,1 @@
+(EventID="1" Image="*\\powershell.exe" (CommandLine="*new-object system.net.sockets.tcpclient*")) | table CommandLine,ParentCommandLine

@@ -1,0 +1,1 @@
+(EventID="1" ParentImage="*\\taskmgr.exe" NOT ((Image="*\\resmon.exe" OR Image="*\\mmc.exe" OR Image="*\\taskmgr.exe"))) | table Image,CommandLine,ParentCommandLine

@@ -1,0 +1,1 @@
+(EventID="1" (Image="*\\sc.exe") CommandLine="*sdset*" CommandLine="*D;;*" (CommandLine="*;;;IU*" OR CommandLine="*;;;SU*" OR CommandLine="*;;;BA*" OR CommandLine="*;;;SY*" OR CommandLine="*;;;WD*"))

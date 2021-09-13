@@ -1,0 +1,1 @@
+(EventID="1" (ParentImage="*\\scrcons.exe") (Image="*\\svchost.exe" OR Image="*\\dllhost.exe" OR Image="*\\powershell.exe" OR Image="*\\wscript.exe" OR Image="*\\cscript.exe" OR Image="*\\schtasks.exe" OR Image="*\\regsvr32.exe" OR Image="*\\mshta.exe" OR Image="*\\rundll32.exe" OR Image="*\\msiexec.exe" OR Image="*\\msbuild.exe")) | table CommandLine,ParentCommandLine

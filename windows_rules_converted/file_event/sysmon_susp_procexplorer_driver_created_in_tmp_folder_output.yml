@@ -1,0 +1,1 @@
+(EventID="11" (TargetFilename="*\\AppData\\Local\\Temp\\*" TargetFilename="*PROCEXP152.sys") NOT ((Image="*\\procexp64.exe*" OR Image="*\\procexp.exe*" OR Image="*\\procmon64.exe*" OR Image="*\\procmon.exe*")))

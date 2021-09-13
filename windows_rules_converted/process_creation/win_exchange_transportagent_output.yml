@@ -1,0 +1,2 @@
+(EventID="1" CommandLine="*Install-TransportAgent*") | table AssemblyPath
+"Install-TransportAgent" | table AssemblyPath

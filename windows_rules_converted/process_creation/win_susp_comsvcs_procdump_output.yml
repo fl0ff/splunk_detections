@@ -1,0 +1,1 @@
+(EventID="1" (Image="*\\rundll32.exe" OR OriginalFileName="RUNDLL32.EXE") (CommandLine="*comsvcs*" CommandLine="*MiniDump*" CommandLine="*full*")) | table CommandLine,ParentCommandLine

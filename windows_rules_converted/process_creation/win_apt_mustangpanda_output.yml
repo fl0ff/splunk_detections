@@ -1,0 +1,1 @@
+(EventID="1" ((CommandLine="*Temp\\wtask.exe /create*" OR CommandLine="*%windir:~-3,1%%PUBLIC:~-9,1%*" OR CommandLine="*/tn \"Security Script *" OR CommandLine="*%windir:~-1,1%*") OR (CommandLine="*/E:vbscript*" CommandLine="*C:\\Users\\*" CommandLine="*.txt*" CommandLine="*/F*") OR Image="*Temp\\winwsh.exe")) | table CommandLine,ParentCommandLine

@@ -1,0 +1,2 @@
+(EventID="7" (ImageLoaded="*\\ttdrecord.dll" OR ImageLoaded="*\\ttdwriter.dll" OR ImageLoaded="*\\ttdloader.dll"))
+(EventID="1" (ParentImage="*\\tttracer.exe"))

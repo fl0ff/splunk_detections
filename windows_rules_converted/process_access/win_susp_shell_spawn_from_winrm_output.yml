@@ -1,0 +1,1 @@
+(EventID="1" ParentImage="*\\wsmprovhost.exe" (Image="*\\cmd.exe" OR Image="*\\sh.exe" OR Image="*\\bash.exe" OR Image="*\\powershell.exe" OR Image="*\\schtasks.exe" OR Image="*\\certutil.exe" OR Image="*\\whoami.exe" OR Image="*\\bitsadmin.exe"))

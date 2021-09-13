@@ -1,0 +1,1 @@
+(EventID="1" ((Image="*\\sqltoolsps.exe" OR ParentImage="*\\sqltoolsps.exe") OR (OriginalFileName="\\sqltoolsps.exe" NOT (ParentImage="*\\smss.exe"))))

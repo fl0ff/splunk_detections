@@ -1,0 +1,1 @@
+(EventID="31017" Description="*Rejected an insecure guest logon*" UserName="" ServerName="\\1*") | table Computer,User

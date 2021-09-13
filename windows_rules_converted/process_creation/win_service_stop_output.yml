@@ -1,0 +1,1 @@
+(EventID="1" (Image="*\\sc.exe" OR Image="*\\net.exe" OR Image="*\\net1.exe") CommandLine="*stop*") | table ComputerName,User,CommandLine

@@ -1,0 +1,1 @@
+(EventID="1" (CommandLine="*dir *" OR CommandLine="*findstr *") (CommandLine="*.key*" OR CommandLine="*.pgp*" OR CommandLine="*.gpg*" OR CommandLine="*.ppk*" OR CommandLine="*.p12*" OR CommandLine="*.pem*" OR CommandLine="*.pfx*" OR CommandLine="*.cer*" OR CommandLine="*.p7b*" OR CommandLine="*.asc*")) | table ComputerName,User,CommandLine,ParentCommandLine

@@ -1,0 +1,2 @@
+(EventID="4103" ContextInfo="* = ServerRemoteHost *" ContextInfo="*wsmprovhost.exe*")
+(EventID="400" HostName="ServerRemoteHost" HostApplication="*wsmprovhost.exe*")

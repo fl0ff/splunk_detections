@@ -1,0 +1,1 @@
+(EventID="1" ((Image="*\\Bloodhound.exe*" OR Image="*\\SharpHound.exe*") OR (CommandLine="* -CollectionMethod All *" OR CommandLine="*.exe -c All -d *" OR CommandLine="*Invoke-Bloodhound*" OR CommandLine="*Get-BloodHoundData*") OR (CommandLine="* -JsonFolder *" CommandLine="* -ZipFileName *") OR (CommandLine="* DCOnly *" CommandLine="* --NoSaveCache *")))

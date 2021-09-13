@@ -1,0 +1,1 @@
+(EventID="1" CommandLine="*netsh*" ((CommandLine="*firewall add portopening*" CommandLine="*tcp 3389*") OR (CommandLine="*advfirewall firewall add rule*" CommandLine="*action=allow*" CommandLine="*protocol=TCP*" CommandLine="*localport=3389*")))

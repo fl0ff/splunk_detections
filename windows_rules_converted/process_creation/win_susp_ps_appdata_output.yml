@@ -1,0 +1,1 @@
+(EventID="1" CommandLine="*/c*" CommandLine="*powershell*" CommandLine="*\\AppData\\*" (CommandLine="*Local\\*" OR CommandLine="*Roaming\\*"))

@@ -1,0 +1,1 @@
+(EventID="1" (CommandLine="*7z.exe*" OR CommandLine="*7za.exe*") CommandLine="* -p*" (CommandLine="* a *" OR CommandLine="* u *")) | table CommandLine,ParentCommandLine,CurrentDirectory

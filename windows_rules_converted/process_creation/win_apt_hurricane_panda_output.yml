@@ -1,0 +1,1 @@
+(EventID="1" ((CommandLine="*localgroup*" CommandLine="*admin*" CommandLine="*/add*") OR (CommandLine="*\\Win64.exe*")))

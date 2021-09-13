@@ -1,0 +1,1 @@
+(EventID="1" Image="*\\GUP.exe" NOT ((Image="*\\Users\\*\\AppData\\Local\\Notepad++\\updater\\GUP.exe" OR Image="*\\Users\\*\\AppData\\Roaming\\Notepad++\\updater\\GUP.exe" OR Image="*\\Program Files\\Notepad++\\updater\\GUP.exe" OR Image="*\\Program Files (x86)\\Notepad++\\updater\\GUP.exe")))

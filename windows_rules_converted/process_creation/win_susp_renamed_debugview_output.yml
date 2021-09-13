@@ -1,0 +1,1 @@
+(EventID="1" (Product="Sysinternals DebugView" OR Product="Sysinternals Debugview") NOT (OriginalFileName="Dbgview.exe" Image="*\\Dbgview.exe"))

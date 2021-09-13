@@ -1,0 +1,1 @@
+(EventID="8001" TargetName="TERMSRV*") | table Computer,UserName,DomainName,TargetName

@@ -1,0 +1,1 @@
+(EventID="1" ((EventID="1" (ParentImage="*\\userinit.exe" NOT (Image="*\\explorer.exe")) NOT ((CommandLine="*netlogon.bat*" OR CommandLine="*UsrLogon.cmd*"))) OR CommandLine="*UserInitMprLogonScript*"))

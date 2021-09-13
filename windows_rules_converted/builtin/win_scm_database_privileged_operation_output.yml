@@ -1,0 +1,1 @@
+((EventID="4674" ObjectType="SC_MANAGER OBJECT" ObjectName="servicesactive" PrivilegeList="SeTakeOwnershipPrivilege") NOT (SubjectLogonId="0x3e4"))

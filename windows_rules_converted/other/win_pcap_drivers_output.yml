@@ -1,0 +1,1 @@
+(EventID="4697" (ServiceFileName="*pcap*" OR ServiceFileName="*npcap*" OR ServiceFileName="*npf*" OR ServiceFileName="*nm3*" OR ServiceFileName="*ndiscap*" OR ServiceFileName="*nmnt*" OR ServiceFileName="*windivert*" OR ServiceFileName="*USBPcap*" OR ServiceFileName="*pktmon*")) | table EventID,ServiceFileName,Account_Name,Computer_Name,Originating_Computer,ServiceName

@@ -1,0 +1,1 @@
+(EventID="1" CommandLine="*\\CurrentVersion\\Image File Execution Options\\*" (CommandLine="*sethc.exe*" OR CommandLine="*utilman.exe*" OR CommandLine="*osk.exe*" OR CommandLine="*magnify.exe*" OR CommandLine="*narrator.exe*" OR CommandLine="*displayswitch.exe*" OR CommandLine="*atbroker.exe*"))

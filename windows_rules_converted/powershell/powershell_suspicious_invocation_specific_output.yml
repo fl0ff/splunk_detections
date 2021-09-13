@@ -1,0 +1,1 @@
+((((" -w " "hidden" (("-nop" " -c " ("[Convert]::FromBase64String" OR ("-noni" "iex" "New-Object"))) OR ("-ep" "bypass" "-Enc"))) OR ("powershell" "reg" "add" "HKCU\\software\\microsoft\\windows\\currentversion\\run")) OR ("bypass" "-noprofile" "-windowstyle" "hidden" "new-object" "system.net.webclient" ".download")) OR ("iex" "New-Object" "Net.WebClient" ".Download"))

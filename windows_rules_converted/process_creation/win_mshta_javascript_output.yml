@@ -1,0 +1,1 @@
+(EventID="1" Image="*\\mshta.exe" CommandLine="*javascript*") | table ComputerName,User,CommandLine

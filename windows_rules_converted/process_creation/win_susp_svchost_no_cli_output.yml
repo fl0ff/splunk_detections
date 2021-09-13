@@ -1,0 +1,1 @@
+(EventID="1" (EventID="1" CommandLine="*svchost.exe" Image="*\\svchost.exe") NOT ((ParentImage="*\\rpcnet.exe" OR ParentImage="*\\rpcnetp.exe") OR NOT CommandLine="*")) | table CommandLine,ParentCommandLine

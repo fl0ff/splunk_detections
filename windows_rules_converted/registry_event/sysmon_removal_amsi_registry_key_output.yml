@@ -1,0 +1,1 @@
+((EventID="12" OR EventID="13" OR EventID="14") EventType="DeleteKey" (TargetObject="*{2781761E-28E0-4109-99FE-B9D127C57AFE}" OR TargetObject="*{A7C452EF-8E9F-42EB-9F2B-245613CA0DC9}"))

@@ -1,0 +1,1 @@
+(EventID="1" CommandLine="*rundll32*" ((CommandLine="*apphelp.dll*" (CommandLine="*ShimFlushCache*" OR CommandLine="*#250*")) OR (CommandLine="*kernel32.dll*" (CommandLine="*BaseFlushAppcompatCache*" OR CommandLine="*#46*")))) | table Image,CommandLine,ParentCommandLine

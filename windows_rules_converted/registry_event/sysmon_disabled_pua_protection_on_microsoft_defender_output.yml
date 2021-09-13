@@ -1,0 +1,1 @@
+((EventID="12" OR EventID="13" OR EventID="14") EventType="SetValue" TargetObject="*HKLM\\SOFTWARE\\Policies\\Microsoft\\Windows Defender\\PUAProtection*" Details="DWORD (0x00000000)")

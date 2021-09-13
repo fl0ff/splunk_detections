@@ -1,0 +1,1 @@
+(EventID="1" (ParentImage="*\\System32\\control.exe" Image="*\\rundll32.exe ") NOT (CommandLine="*Shell32.dll*")) | table CommandLine,ParentCommandLine

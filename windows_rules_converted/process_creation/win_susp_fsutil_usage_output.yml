@@ -1,0 +1,1 @@
+(EventID="1" (Image="*\\fsutil.exe" OR OriginalFileName="fsutil.exe") (CommandLine="*deletejournal*" OR CommandLine="*createjournal*"))

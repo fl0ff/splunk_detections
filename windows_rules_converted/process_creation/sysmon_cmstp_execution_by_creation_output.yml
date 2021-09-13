@@ -1,0 +1,1 @@
+(EventID="1" ParentImage="*\\cmstp.exe") | table CommandLine,ParentCommandLine,Details

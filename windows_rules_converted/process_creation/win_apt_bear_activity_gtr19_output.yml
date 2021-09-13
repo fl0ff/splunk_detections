@@ -1,0 +1,1 @@
+(EventID="1" ((Image="*\\xcopy.exe" CommandLine="*/S*" CommandLine="*/E*" CommandLine="*/C*" CommandLine="*/Q*" CommandLine="*/H*" CommandLine="*\\\*") OR (Image="*\\adexplorer.exe" CommandLine="*-snapshot*" CommandLine="*\"\"*" CommandLine="*c:\\users\\*")))

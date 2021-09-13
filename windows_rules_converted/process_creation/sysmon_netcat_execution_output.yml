@@ -1,0 +1,1 @@
+(EventID="1" ((Image="*\\ncat.exe") OR (CommandLine="* -lvp *" OR CommandLine="* -l --proxy-type http *" OR CommandLine="* --exec cmd.exe *" OR CommandLine="* -vnl --exec *")))

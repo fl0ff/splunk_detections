@@ -1,0 +1,1 @@
+(EventID="1" ((IntegrityLevel="High" OR IntegrityLevel="System") Image="C:\\Windows\\System32\\ComputerDefaults.exe") NOT ((ParentImage="*:\\Windows\\System32*" OR ParentImage="*:\\Program Files*")))

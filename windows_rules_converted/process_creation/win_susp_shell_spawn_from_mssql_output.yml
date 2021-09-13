@@ -1,0 +1,1 @@
+(EventID="1" ParentImage="*\\sqlservr.exe" (Image="*\\cmd.exe" OR Image="*\\sh.exe" OR Image="*\\bash.exe" OR Image="*\\powershell.exe" OR Image="*\\bitsadmin.exe"))

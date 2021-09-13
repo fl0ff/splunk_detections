@@ -1,0 +1,1 @@
+(EventID="1" (CommandLine="* -NoP -sta -NonI -W Hidden -Enc *" OR CommandLine="* -noP -sta -w 1 -enc *" OR CommandLine="* -NoP -NonI -W Hidden -enc *" OR CommandLine="* -noP -sta -w 1 -enc*" OR CommandLine="* -enc  SQB*" OR CommandLine="* -nop -exec bypass -EncodedCommand *"))

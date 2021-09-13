@@ -1,0 +1,2 @@
+("System.Net.WebClient" (".DownloadFile(" OR ".DownloadString("))
+(EventID="400" HostApplication="*System.Net.WebClient*" (HostApplication="*.DownloadFile(*" OR HostApplication="*.DownloadString(*"))

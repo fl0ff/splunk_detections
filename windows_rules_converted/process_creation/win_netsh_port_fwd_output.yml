@@ -1,0 +1,1 @@
+(EventID="1" Image="*\\netsh.exe" ((CommandLine="*interface*" CommandLine="*portproxy*" CommandLine="*add*" CommandLine="*v4tov4*") OR (CommandLine="*connectp*" CommandLine="*listena*" CommandLine="*c=*")))

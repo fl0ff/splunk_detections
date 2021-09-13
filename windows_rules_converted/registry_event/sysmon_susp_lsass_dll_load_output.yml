@@ -1,0 +1,1 @@
+((EventID="12" OR EventID="13" OR EventID="14") (TargetObject="*\\CurrentControlSet\\Services\\NTDS\\DirectoryServiceExtPt*" OR TargetObject="*\\CurrentControlSet\\Services\\NTDS\\LsaDbExtPt*"))

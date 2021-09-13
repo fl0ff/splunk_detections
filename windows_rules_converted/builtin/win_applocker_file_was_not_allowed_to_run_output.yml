@@ -1,0 +1,1 @@
+(EventID="8004" OR EventID="8007") | table PolicyName,RuleId,RuleName,TargetUser,TargetProcessId,FilePath,FileHash,Fqbn

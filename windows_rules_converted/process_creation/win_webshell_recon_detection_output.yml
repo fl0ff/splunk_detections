@@ -1,0 +1,1 @@
+(EventID="1" ((ParentImage="*\\apache*" OR ParentImage="*\\tomcat*") OR (ParentImage="*\\w3wp.exe" OR ParentImage="*\\php-cgi.exe" OR ParentImage="*\\nginx.exe" OR ParentImage="*\\httpd.exe")) ((Image="*\\cmd.exe") (CommandLine="*perl --help*" OR CommandLine="*python --help*" OR CommandLine="*wget --help*" OR CommandLine="*perl -h*"))) | table Image,CommandLine,ParentCommandLine

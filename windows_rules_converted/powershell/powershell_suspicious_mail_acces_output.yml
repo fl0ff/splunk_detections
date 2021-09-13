@@ -1,0 +1,1 @@
+(EventID="4104" (ScriptBlockText="*Get-Inbox.ps1*" OR ScriptBlockText="*Microsoft.Office.Interop.Outlook*" OR ScriptBlockText="*Microsoft.Office.Interop.Outlook.olDefaultFolders*" OR ScriptBlockText="*-comobject outlook.application*"))

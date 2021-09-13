@@ -1,0 +1,1 @@
+(EventID="7" Image="*\\wmic.exe" (ImageLoaded="*\\jscript.dll" OR ImageLoaded="*\\vbscript.dll"))

@@ -1,0 +1,1 @@
+(EventID="4104" (ScriptBlockText="*Invoke-SMBAutoBrute*" OR ScriptBlockText="*Invoke-GPOLinks*" OR ScriptBlockText="*Out-Minidump*" OR ScriptBlockText="*Invoke-Potato*"))

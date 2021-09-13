@@ -1,0 +1,1 @@
+(EventID="1" Image="*\\fltmc.exe" CommandLine="*unload*" CommandLine="*sys*") | table CommandLine,Details

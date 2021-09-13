@@ -1,0 +1,1 @@
+(EventID="1" Image="*\\netsh.exe" CommandLine="*add*" CommandLine="*helper*") | table ComputerName,User,CommandLine,ParentCommandLine

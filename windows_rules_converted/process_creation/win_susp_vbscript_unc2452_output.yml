@@ -1,0 +1,1 @@
+(EventID="1" (CommandLine="*Execute*" CommandLine="*CreateObject*" CommandLine="*RegRead*" CommandLine="*window.close*" CommandLine="*\\Microsoft\\Windows\\CurrentVersion*") NOT ((CommandLine="*\\Software\\Microsoft\\Windows\\CurrentVersion\\Run*")))

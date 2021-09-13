@@ -1,0 +1,1 @@
+(((Source="Application Error" EventID="1000") OR (Source="Windows Error Reporting" EventID="1001")) ("MsMpEng.exe" "mpengine.dll"))

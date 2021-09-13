@@ -1,0 +1,1 @@
+(EventID="5145" ShareName="\\*\\IPC$" (RelativeTargetName="*RemCom_stdint*" OR RelativeTargetName="*RemCom_stdoutt*" OR RelativeTargetName="*RemCom_stderrt*"))

@@ -1,0 +1,1 @@
+((EventID="400" HostName="ConsoleHost") NOT ((HostApplication="powershell.exe*" OR HostApplication="C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe*")))

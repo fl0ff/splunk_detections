@@ -1,0 +1,1 @@
+((EventID="4776" Status="*0xC000006A") NOT (TargetUserName="*$")) | eventstats dc(TargetUserName) as val by Workstation | search val > 10

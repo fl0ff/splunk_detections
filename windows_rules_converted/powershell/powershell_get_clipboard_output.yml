@@ -1,0 +1,1 @@
+((EventID="4104" ScriptBlockText="*Get-Clipboard*") OR (EventID="4103" Payload="*Get-Clipboard*"))

@@ -1,0 +1,1 @@
+(EventID="1" Image="*\\cscript.exe" CommandLine="*.vbs*" CommandLine="*/shell*") | table CommandLine,ParentCommandLine

@@ -1,0 +1,1 @@
+(EventID="1" Image="*\\schtasks.exe" CommandLine="*/change*" CommandLine="*/TN*" CommandLine="*/RU*" CommandLine="*/RP*")

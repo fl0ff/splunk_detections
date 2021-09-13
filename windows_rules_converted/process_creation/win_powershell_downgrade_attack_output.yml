@@ -1,0 +1,1 @@
+(EventID="1" (CommandLine="* -version 2 *" OR CommandLine="* -versio 2 *" OR CommandLine="* -versi 2 *" OR CommandLine="* -vers 2 *" OR CommandLine="* -ver 2 *" OR CommandLine="* -ve 2 *") Image="*\\powershell.exe")

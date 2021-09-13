@@ -1,0 +1,2 @@
+(EventID="4104" ScriptBlockText="*Cert:\\LocalMachine\\Root*" (ScriptBlockText="*Move-Item*" OR ScriptBlockText="*Import-Certificate*"))
+(EventID="1" CommandLine="*root*" ((Image="*\\certutil.exe" CommandLine="*-addstore*") OR (Image="*\\CertMgr.exe" CommandLine="*/add*")))

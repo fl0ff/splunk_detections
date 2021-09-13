@@ -1,0 +1,2 @@
+((EventID="4103" ContextInfo="*") NOT (ContextInfo="*powershell.exe*"))
+((EventID="400" HostApplication="*") NOT (HostApplication="C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe*"))

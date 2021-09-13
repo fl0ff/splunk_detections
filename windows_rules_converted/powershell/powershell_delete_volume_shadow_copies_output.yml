@@ -1,0 +1,1 @@
+(HostApplication="*Get-WmiObject*" HostApplication="* Win32_Shadowcopy*" (HostApplication="*Delete()*" OR HostApplication="*Remove-WmiObject*") EventID="400") | table HostApplication

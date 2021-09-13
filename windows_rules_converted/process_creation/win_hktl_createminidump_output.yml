@@ -1,0 +1,2 @@
+(EventID="1" (Image="*\\CreateMiniDump.exe*" OR Imphash="4a07f944a83e8a7c2525efa35dd30e2f"))
+(EventID="11" TargetFilename="*\\lsass.dmp")

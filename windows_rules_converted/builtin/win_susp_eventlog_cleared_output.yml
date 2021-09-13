@@ -1,0 +1,2 @@
+(EventID="517" OR EventID="1102")
+(EventID="104" Source="Microsoft-Windows-Eventlog")

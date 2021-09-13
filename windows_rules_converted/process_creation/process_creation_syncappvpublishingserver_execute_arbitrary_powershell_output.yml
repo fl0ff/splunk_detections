@@ -1,0 +1,1 @@
+(EventID="1" Image="*\\SyncAppvPublishingServer.exe" CommandLine="*\"n; *" CommandLine="* Start-Process *") | table ComputerName,User,CommandLine,ParentCommandLine

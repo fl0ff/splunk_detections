@@ -1,0 +1,1 @@
+((EventID="4720" OR EventID="4781") SamAccountName="*$*") | table EventID,SamAccountName,SubjectUserName

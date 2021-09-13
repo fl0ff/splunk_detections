@@ -1,0 +1,1 @@
+(EventID="1" ((Image="*\\sc.exe" CommandLine="*create*" CommandLine="*binpath*") OR (Image="*\\powershell.exe" CommandLine="*new-service*")))

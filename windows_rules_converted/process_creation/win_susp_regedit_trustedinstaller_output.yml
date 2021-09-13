@@ -1,0 +1,1 @@
+(EventID="1" Image="*\\regedit.exe" (ParentImage="*\\TrustedInstaller.exe" OR ParentImage="*\\ProcessHacker.exe"))

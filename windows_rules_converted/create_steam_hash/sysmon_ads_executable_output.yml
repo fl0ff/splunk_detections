@@ -1,0 +1,1 @@
+(EventID="15" NOT ((Imphash="00000000000000000000000000000000") OR (NOT Imphash="*"))) | table TargetFilename,Image

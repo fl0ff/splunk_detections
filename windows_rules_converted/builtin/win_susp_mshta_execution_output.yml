@@ -1,0 +1,1 @@
+(EventID="1" Image="*\\mshta.exe" (CommandLine="*vbscript*" OR CommandLine="*.jpg*" OR CommandLine="*.png*" OR CommandLine="*.lnk*" OR CommandLine="*.xls*" OR CommandLine="*.doc*" OR CommandLine="*.zip*"))

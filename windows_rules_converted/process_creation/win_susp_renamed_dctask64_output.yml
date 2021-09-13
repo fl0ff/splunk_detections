@@ -1,0 +1,1 @@
+(EventID="1" Imphash="6834B1B94E49701D77CCB3C0895E1AFD" NOT (Image="*\\dctask64.exe")) | table CommandLine,ParentCommandLine,ParentImage

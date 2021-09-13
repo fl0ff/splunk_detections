@@ -1,0 +1,1 @@
+(EventID="1" ((EventID="1" CommandLine="*-s:*" (Image="*ftp.exe" OR OriginalFileName="*ftp.exe*")) OR (EventID="1" OriginalFileName="*ftp.exe*" NOT (Image="*ftp.exe")) OR ParentImage="*ftp.exe")) | table CommandLine,ParentImage

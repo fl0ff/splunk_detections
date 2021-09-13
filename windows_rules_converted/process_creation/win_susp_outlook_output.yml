@@ -1,0 +1,1 @@
+(EventID="1" (CommandLine="*EnableUnsafeClientMailRules*" OR (ParentImage="*\\outlook.exe" CommandLine="*\\\\\*" CommandLine="*\\\*" CommandLine="*.exe*")))

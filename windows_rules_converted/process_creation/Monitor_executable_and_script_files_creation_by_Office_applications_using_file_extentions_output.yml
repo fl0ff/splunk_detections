@@ -1,0 +1,1 @@
+((Image="*winword.exe" OR Image="*excel.exe" OR Image="*powerpnt.exe") ((FileName="*.exe" OR FileName="*.dll" OR FileName="*.ocx" OR FileName="*.com" OR FileName="*.ps1" OR FileName="*.vbs" OR FileName="*.sys" OR FileName="*.bat" OR FileName="*.scr" OR FileName="*.proj") OR (FileMagicBytes="4D5A*")))

@@ -1,0 +1,1 @@
+(EventID="1" ((EventID="1" (Image="*\\bitsadmin.exe") (((CommandLine="* /create *" OR CommandLine="* /addfile *") (CommandLine="*http*")) OR (CommandLine="* /transfer *"))) OR (CommandLine="*copy bitsadmin.exe*"))) | table CommandLine,ParentCommandLine

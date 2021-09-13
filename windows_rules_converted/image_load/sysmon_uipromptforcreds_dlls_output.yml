@@ -1,0 +1,1 @@
+(EventID="7" ((ImageLoaded="*\\credui.dll" OR ImageLoaded="*\\wincredui.dll") OR (OriginalFileName="credui.dll" OR OriginalFileName="wincredui.dll")))

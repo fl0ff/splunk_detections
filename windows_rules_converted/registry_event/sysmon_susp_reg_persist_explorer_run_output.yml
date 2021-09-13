@@ -1,0 +1,1 @@
+((EventID="12" OR EventID="13" OR EventID="14") TargetObject="*\\Microsoft\\Windows\\CurrentVersion\\Policies\\Explorer\\Run" ((Details="C:\\Windows\\Temp\\*" OR Details="C:\\ProgramData\\*" OR Details="C:\\$Recycle.bin\\*" OR Details="C:\\Temp\\*" OR Details="C:\\Users\\Public\\*" OR Details="C:\\Users\\Default\\*") OR (Details="*\\AppData\\*"))) | table Image,ParentImage

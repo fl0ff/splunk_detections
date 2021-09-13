@@ -1,0 +1,1 @@
+(EventID="1" ((CommandLine="*taskkill *" CommandLine="*RaccineSettings.exe*") OR (CommandLine="*reg.exe*" CommandLine="*delete*" CommandLine="*Raccine Tray*") OR (CommandLine="*schtasks*" CommandLine="*/DELETE*" CommandLine="*Raccine Rules Updater*")))

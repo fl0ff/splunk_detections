@@ -1,0 +1,1 @@
+(((EventID="4624" OR EventID="4625") LogonType="3" LogonProcessName="NtLmSsp" WorkstationName="%Workstations%" ComputerName="%Workstations%") NOT (AccountName="ANONYMOUS LOGON"))

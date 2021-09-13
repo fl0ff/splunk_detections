@@ -1,0 +1,1 @@
+(EventID="4720" TargetUserName="*$") | table EventCode,AccountName

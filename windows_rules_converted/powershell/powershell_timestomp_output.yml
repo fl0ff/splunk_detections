@@ -1,0 +1,1 @@
+(EventID="4104" (ScriptBlockText="*.CreationTime =*" OR ScriptBlockText="*.LastWriteTime =*" OR ScriptBlockText="*.LastAccessTime =*" OR ScriptBlockText="*[IO.File]::SetCreationTime*" OR ScriptBlockText="*[IO.File]::SetLastAccessTime*" OR ScriptBlockText="*[IO.File]::SetLastWriteTime*"))

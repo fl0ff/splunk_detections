@@ -1,0 +1,1 @@
+(EventID="4104" (ScriptBlockText="*CL_Mutexverifiers.ps1*" OR ScriptBlockText="*runAfterCancelProcess*")) | eventstats dc(ScriptBlockText) as val by Computer | search val > 2

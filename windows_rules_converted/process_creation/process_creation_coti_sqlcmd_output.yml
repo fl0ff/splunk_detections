@@ -1,0 +1,1 @@
+(EventID="1" (CommandLine="*sqlcmd *" OR CommandLine="*sqlcmd.exe*") CommandLine="* -S localhost *" (CommandLine="*sys.sysprocesses*" OR CommandLine="*master.dbo.sysdatabases*" OR CommandLine="*BACKUP DATABASE*"))

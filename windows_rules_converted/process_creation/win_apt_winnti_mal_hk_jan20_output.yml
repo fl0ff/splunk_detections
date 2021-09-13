@@ -1,0 +1,1 @@
+(EventID="1" (((ParentImage="*C:\\Windows\\Temp*" OR ParentImage="*\\hpqhvind.exe*") Image="C:\\ProgramData\\DRM*") OR (ParentImage="C:\\ProgramData\\DRM*" Image="*\\wmplayer.exe") OR (ParentImage="*\\Test.exe" Image="*\\wmplayer.exe") OR Image="C:\\ProgramData\\DRM\\CLR\\CLR.exe" OR (ParentImage="C:\\ProgramData\\DRM\\Windows*" Image="*\\SearchFilterHost.exe")))

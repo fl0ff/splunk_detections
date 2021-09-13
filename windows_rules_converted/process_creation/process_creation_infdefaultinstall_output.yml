@@ -1,0 +1,1 @@
+(EventID="1" CommandLine="*InfDefaultInstall.exe *" CommandLine="*.inf*") | table ComputerName,User,CommandLine,ParentCommandLine

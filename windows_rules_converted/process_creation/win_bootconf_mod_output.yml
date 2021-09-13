@@ -1,0 +1,1 @@
+(EventID="1" (Image="*\\bcdedit.exe" CommandLine="*set*") ((CommandLine="*bootstatuspolicy*" CommandLine="*ignoreallfailures*") OR (CommandLine="*recoveryenabled*" CommandLine="*no*"))) | table ComputerName,User,CommandLine

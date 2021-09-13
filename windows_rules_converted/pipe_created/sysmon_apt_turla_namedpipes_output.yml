@@ -1,0 +1,1 @@
+((EventID="17" OR EventID="18") (PipeName="\\atctl" OR PipeName="\\userpipe" OR PipeName="\\iehelper" OR PipeName="\\sdlrpc" OR PipeName="\\comnap"))

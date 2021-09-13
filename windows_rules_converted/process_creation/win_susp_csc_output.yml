@@ -1,0 +1,1 @@
+(EventID="1" Image="*\\csc.exe" (ParentImage="*\\wscript.exe" OR ParentImage="*\\cscript.exe" OR ParentImage="*\\mshta.exe"))

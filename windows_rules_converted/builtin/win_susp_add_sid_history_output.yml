@@ -1,0 +1,1 @@
+((EventID="4765" OR EventID="4766") OR ((EventID="4738" NOT ((SidHistory="-" OR SidHistory="%%1793"))) NOT (NOT SidHistory="*")))

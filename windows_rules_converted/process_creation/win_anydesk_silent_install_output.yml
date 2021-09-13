@@ -1,0 +1,1 @@
+(EventID="1" CommandLine="*--install*" CommandLine="*--start-with-win*" CommandLine="*--silent*") | table CommandLine,ParentCommandLine,CurrentDirectory

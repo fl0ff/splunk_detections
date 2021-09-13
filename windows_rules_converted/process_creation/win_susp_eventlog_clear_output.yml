@@ -1,0 +1,1 @@
+(EventID="1" (((Image="*\\powershell.exe" (CommandLine="*Clear-EventLog*" OR CommandLine="*Remove-EventLog*" OR CommandLine="*Limit-EventLog*")) OR (Image="*\\wmic.exe" CommandLine="* ClearEventLog *")) OR (EventID="1" Image="*\\wevtutil.exe" (CommandLine="*clear-log*" OR CommandLine="* cl *" OR CommandLine="*set-log*" OR CommandLine="* sl *"))))

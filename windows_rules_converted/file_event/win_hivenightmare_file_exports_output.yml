@@ -1,0 +1,1 @@
+(EventID="11" ((TargetFilename="*\\hive_sam_*" OR TargetFilename="*\\SAM-2021-*" OR TargetFilename="*\\SAM-2022-*" OR TargetFilename="*\\SAM-haxx*" OR TargetFilename="*\\Sam.save*") OR (TargetFilename="C:\\windows\\temp\\sam"))) | table CommandLine,ParentCommandLine

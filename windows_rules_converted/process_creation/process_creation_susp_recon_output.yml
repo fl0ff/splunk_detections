@@ -1,0 +1,1 @@
+(EventID="1" (Image="*\\tree.com" OR Image="*\\WMIC.exe" OR Image="*\\doskey.exe" OR Image="*\\sc.exe") ParentCommandLine="* > %TEMP%\\*")

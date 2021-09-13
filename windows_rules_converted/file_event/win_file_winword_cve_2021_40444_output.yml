@@ -1,0 +1,1 @@
+(EventID="11" Image="\\winword.exe" TargetFilename="*.cab" TargetFilename="*\\Windows\\INetCache*") | table TargetFilename

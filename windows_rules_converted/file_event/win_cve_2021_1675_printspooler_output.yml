@@ -1,0 +1,1 @@
+(EventID="11" (TargetFilename="*C:\\Windows\\System32\\spool\\drivers\\x64\\3\\old\\1\\123*" OR TargetFilename="*C:\\Windows\\System32\\spool\\drivers\\x64\\3\\New\\*")) | table ComputerName,TargetFilename

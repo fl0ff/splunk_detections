@@ -1,0 +1,1 @@
+(EventID="1" ParentImage="*\\pkgmgr.exe" Image="*\\dism.exe" (IntegrityLevel="High" OR IntegrityLevel="System"))

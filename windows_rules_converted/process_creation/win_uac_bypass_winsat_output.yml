@@ -1,0 +1,1 @@
+(EventID="1" (IntegrityLevel="High" OR IntegrityLevel="System") ParentImage="*\\AppData\\Local\\Temp\\system32\\winsat.exe" ParentCommandLine="*C:\\Windows \\system32\\winsat.exe*")

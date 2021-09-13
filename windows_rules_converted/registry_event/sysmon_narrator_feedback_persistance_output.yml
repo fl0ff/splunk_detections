@@ -1,0 +1,1 @@
+((EventID="12" OR EventID="13" OR EventID="14") ((EventType="DeleteValue" TargetObject="*\\AppXypsaf9f1qserqevf0sws76dx4k9a5206\\Shell\\open\\command\\DelegateExecute") OR TargetObject="*\\AppXypsaf9f1qserqevf0sws76dx4k9a5206\\Shell\\open\\command\\(Default)"))

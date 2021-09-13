@@ -1,0 +1,1 @@
+((EventID="4657" OR EventID="4656" OR EventID="4660" OR EventID="4663") ObjectName="*\\Microsoft\\Windows Defender\\Exclusions\\*")

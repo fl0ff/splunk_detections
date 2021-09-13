@@ -1,0 +1,1 @@
+(EventID="3" ((Image="*\\Users\\All Users\\*" OR Image="*\\Users\\Default\\*" OR Image="*\\Users\\Public\\*" OR Image="*\\Users\\Contacts\\*" OR Image="*\\Users\\Searches\\*" OR Image="*\\config\\systemprofile\\*" OR Image="*\\Windows\\Fonts\\*" OR Image="*\\Windows\\IME\\*" OR Image="*\\Windows\\addins\\*") OR (Image="*\\$Recycle.bin") OR (Image="C:\\Perflogs\\*")))

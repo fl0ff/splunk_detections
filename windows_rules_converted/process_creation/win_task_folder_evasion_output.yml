@@ -1,0 +1,1 @@
+((CommandLine="*echo *" OR CommandLine="*copy *" OR CommandLine="*type *" OR CommandLine="*file createnew*") (CommandLine="* C:\\Windows\\System32\\Tasks\\*" OR CommandLine="* C:\\Windows\\SysWow64\\Tasks\\*")) | table CommandLine,ParentProcess

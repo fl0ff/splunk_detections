@@ -1,0 +1,1 @@
+((EventID="5145" ShareName="\\*\\IPC$" (RelativeTargetName="*-stdin" OR RelativeTargetName="*-stdout" OR RelativeTargetName="*-stderr")) NOT (EventID="5145" ShareName="\\*\\IPC$" RelativeTargetName="PSEXESVC*"))

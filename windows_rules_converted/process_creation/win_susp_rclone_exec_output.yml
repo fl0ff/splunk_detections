@@ -1,0 +1,1 @@
+(EventID="1" (CommandLine="* pass *" OR CommandLine="* user *" OR CommandLine="* copy *" OR CommandLine="* mega *" OR CommandLine="* sync *" OR CommandLine="* config *" OR CommandLine="* lsd *" OR CommandLine="* remote *" OR CommandLine="* ls *") (Description="Rsync for cloud storage" OR (Image="*\\rclone.exe" (ParentImage="*\\PowerShell.exe" OR ParentImage="*\\cmd.exe"))))

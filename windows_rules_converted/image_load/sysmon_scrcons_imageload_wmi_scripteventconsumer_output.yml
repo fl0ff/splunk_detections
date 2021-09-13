@@ -1,0 +1,1 @@
+(EventID="7" Image="*\\scrcons.exe" (ImageLoaded="*\\vbscript.dll" OR ImageLoaded="*\\wbemdisp.dll" OR ImageLoaded="*\\wshom.ocx" OR ImageLoaded="*\\scrrun.dll"))

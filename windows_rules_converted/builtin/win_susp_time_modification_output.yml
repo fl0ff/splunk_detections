@@ -1,0 +1,1 @@
+(EventID="4616" NOT (((ProcessName="C:\\Program Files\\VMware\\VMware Tools\\vmtoolsd.exe" OR ProcessName="C:\\Windows\\System32\\VBoxService.exe") OR (ProcessName="C:\\Windows\\System32\\svchost.exe" SubjectUserSid="S-1-5-19"))))

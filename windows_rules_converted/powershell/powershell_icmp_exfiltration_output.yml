@@ -1,0 +1,1 @@
+(EventID="4104" ScriptBlockText="*New-Object*" ScriptBlockText="*System.Net.NetworkInformation.Ping*" ScriptBlockText="*.Send(*")

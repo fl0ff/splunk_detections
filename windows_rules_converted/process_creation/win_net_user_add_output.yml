@@ -1,0 +1,1 @@
+(EventID="1" (Image="*\\net.exe" OR Image="*\\net1.exe") CommandLine="*user*" CommandLine="*add*") | table ComputerName,User,CommandLine

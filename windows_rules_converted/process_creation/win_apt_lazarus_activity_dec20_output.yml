@@ -1,0 +1,1 @@
+(EventID="1" ((CommandLine="*reg.exe save hklm\\sam %temp%\\~reg_sam.save*" OR CommandLine="*1q2w3e4r@#$@#$@#$*" OR CommandLine="* -hp1q2w3e4 *" OR CommandLine="*.dat data03 10000 -p *") OR (CommandLine="*process call create*" CommandLine="* > %temp%\\~*") OR (CommandLine="*netstat -aon | find *" CommandLine="* > %temp%\\~*") OR (CommandLine="*.255 10 C:\\ProgramData\\*")))

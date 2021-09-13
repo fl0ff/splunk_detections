@@ -1,0 +1,1 @@
+(EventID="4104" ScriptBlockText="*Add-Content*" ScriptBlockText="*$profile*" ScriptBlockText="*-Value*" (ScriptBlockText="*Start-Process*" OR ScriptBlockText="*\"\"*"))

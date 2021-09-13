@@ -1,0 +1,1 @@
+(EventID="1" Image="*\\at.exe" CommandLine="*interactive*") | table ComputerName,User,CommandLine

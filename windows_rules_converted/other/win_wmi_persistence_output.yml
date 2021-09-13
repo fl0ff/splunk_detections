@@ -1,0 +1,2 @@
+((EventID="5861" ("ActiveScriptEventConsumer" OR "CommandLineEventConsumer" OR "CommandLineTemplate")) OR EventID="5859")
+(EventID="4662" ObjectType="WMI Namespace" ObjectName="*subscription*")

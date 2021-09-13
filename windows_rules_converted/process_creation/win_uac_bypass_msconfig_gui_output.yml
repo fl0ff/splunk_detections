@@ -1,0 +1,1 @@
+(EventID="1" (IntegrityLevel="High" OR IntegrityLevel="System") ParentImage="*\\AppData\\Local\\Temp\\pkgmgr.exe" CommandLine="\"C:\\Windows\\system32\\msconfig.exe\" -5")

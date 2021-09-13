@@ -1,0 +1,1 @@
+(EventID="1" (CommandLine="net group \"domain admins\" /dom" OR CommandLine="net localgroup administrators" OR CommandLine="net group \"enterprise admins\" /dom" OR CommandLine="net accounts /dom")) | table CommandLine,ParentCommandLine

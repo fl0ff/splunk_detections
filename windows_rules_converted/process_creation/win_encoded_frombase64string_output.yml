@@ -1,0 +1,1 @@
+(EventID="1" (CommandLine="*OjpGcm9tQmFzZTY0U3RyaW5n*" OR CommandLine="*o6RnJvbUJhc2U2NFN0cmluZ*" OR CommandLine="*6OkZyb21CYXNlNjRTdHJpbm*")) | table CommandLine,ParentCommandLine

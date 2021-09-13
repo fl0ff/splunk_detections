@@ -1,0 +1,1 @@
+(EventID="1" ((Image="*\\procdump.exe" OR Image="*\\procdump64.exe") OR (CommandLine="* -ma *" CommandLine="*.exe*")))

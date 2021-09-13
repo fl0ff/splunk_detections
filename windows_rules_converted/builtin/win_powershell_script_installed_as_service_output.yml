@@ -1,0 +1,3 @@
+(EventID="7045" (ServiceFileName="*powershell*" OR ServiceFileName="*pwsh*"))
+(EventID="6" (ServiceFileName="*powershell*" OR ServiceFileName="*pwsh*"))
+(EventID="4697" (ServiceFileName="*powershell*" OR ServiceFileName="*pwsh*"))

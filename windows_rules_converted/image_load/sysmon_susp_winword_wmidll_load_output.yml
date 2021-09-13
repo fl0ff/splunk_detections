@@ -1,0 +1,1 @@
+(EventID="7" (Image="*\\winword.exe" OR Image="*\\powerpnt.exe" OR Image="*\\excel.exe" OR Image="*\\outlook.exe") (ImageLoaded="*\\wmiutils.dll" OR ImageLoaded="*\\wbemcomn.dll" OR ImageLoaded="*\\wbemprox.dll" OR ImageLoaded="*\\wbemdisp.dll" OR ImageLoaded="*\\wbemsvc.dll"))

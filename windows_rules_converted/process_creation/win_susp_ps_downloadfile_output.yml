@@ -1,0 +1,1 @@
+(EventID="1" CommandLine="*powershell*" CommandLine="*.DownloadFile*" CommandLine="*System.Net.WebClient*")

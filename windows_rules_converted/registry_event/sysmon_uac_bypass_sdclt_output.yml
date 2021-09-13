@@ -1,0 +1,1 @@
+((EventID="12" OR EventID="13" OR EventID="14") ((TargetObject="HKU\\*" TargetObject="*_Classes\\exefile\\shell\\runas\\command\\isolatedCommand") OR (TargetObject="*-1???_Classes\\Folder\\shell\\open\\command\\SymbolicLinkValue" Details="*-1???\\Software\\Classes\\*")))

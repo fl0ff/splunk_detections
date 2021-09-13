@@ -1,0 +1,1 @@
+(EventID="1" (EventID="1" ((CommandLine="*\\127.0.0.1*" CommandLine="* -s *" CommandLine="*cmd.exe*") OR (CommandLine="* /accepteula *" CommandLine="*cmd /c *" CommandLine="* -u *" CommandLine="* -p *"))) NOT ((CommandLine="*paexec*" OR CommandLine="*PsExec*")))

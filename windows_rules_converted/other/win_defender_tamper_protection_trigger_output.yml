@@ -1,0 +1,1 @@
+((EventID="5013") (Value="*\\Windows Defender\\DisableAntiSpyware = 0x1()" OR Value="*\\Real-Time Protection\\DisableRealtimeMonitoring = (Current)"))

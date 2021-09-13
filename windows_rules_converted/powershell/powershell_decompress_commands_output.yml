@@ -1,0 +1,1 @@
+((EventID="4104" ScriptBlockText="*Expand-Archive*") OR (EventID="4103" Payload="*Expand-Archive*"))

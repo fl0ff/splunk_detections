@@ -1,0 +1,1 @@
+(EventID="4104" ScriptBlockText="*New-CimInstance *" ScriptBlockText="*-Namespace root/subscription *" ScriptBlockText="*-Property *" (ScriptBlockText="*-ClassName __EventFilter *" OR ScriptBlockText="*-ClassName CommandLineEventConsumer *"))

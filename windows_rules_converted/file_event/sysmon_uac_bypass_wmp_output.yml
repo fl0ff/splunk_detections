@@ -1,0 +1,1 @@
+(EventID="11" ((TargetFilename="C:\\Users\\*" TargetFilename="*\\AppData\\Local\\Temp\\OskSupport.dll") OR (Image="C:\\Windows\\system32\\DllHost.exe" TargetFilename="C:\\Program Files\\Windows Media Player\\osk.exe")))

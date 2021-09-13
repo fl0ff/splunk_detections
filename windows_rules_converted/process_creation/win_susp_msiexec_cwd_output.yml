@@ -1,0 +1,1 @@
+(EventID="1" Image="*\\msiexec.exe" NOT ((Image="C:\\Windows\\System32\\*" OR Image="C:\\Windows\\SysWOW64\\*" OR Image="C:\\Windows\\WinSxS\\*")))

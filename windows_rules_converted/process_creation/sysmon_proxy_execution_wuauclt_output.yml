@@ -1,0 +1,1 @@
+(EventID="1" ((Image="*wuauclt*" OR OriginalFileName="wuauclt.exe") (CommandLine="*UpdateDeploymentProvider*" CommandLine="*.dll*" CommandLine="*RunHandlerComServer*")) NOT ((CommandLine="* /UpdateDeploymentProvider UpdateDeploymentProvider.dll *" OR CommandLine="* wuaueng.dll *")))

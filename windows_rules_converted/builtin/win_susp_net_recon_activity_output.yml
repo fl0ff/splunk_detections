@@ -1,0 +1,1 @@
+(EventID="4661" (ObjectType="SAM_USER" OR ObjectType="SAM_GROUP") ObjectName="S-1-5-21-*" AccessMask="0x2d" (ObjectName="*-500" OR ObjectName="*-512"))

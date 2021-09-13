@@ -1,0 +1,1 @@
+((EventID="11" Image="System" TargetFilename="*\\Internet Explorer\\iertutil.dll") OR (EventID="7" Image="*\\Internet Explorer\\iexplore.exe" ImageLoaded="*\\Internet Explorer\\iertutil.dll"))

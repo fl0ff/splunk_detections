@@ -1,0 +1,1 @@
+((EventID="12" OR EventID="13" OR EventID="14") TargetObject="*\\Root\\InventoryApplicationFile\\winsat.exe|*" TargetObject="*\\LowerCaseLongPath" Details="c:\\users\\*" Details="*\\appdata\\local\\temp\\system32\\winsat.exe")

@@ -1,0 +1,1 @@
+((EventID="4624" LogonType="3" ProcessName="*scrcons.exe") NOT (TargetLogonId="0x3e7"))

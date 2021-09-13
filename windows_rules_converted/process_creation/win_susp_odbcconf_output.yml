@@ -1,0 +1,1 @@
+(EventID="1" ((Image="*\\odbcconf.exe" (CommandLine="*-f*" OR CommandLine="*regsvr*")) OR (ParentImage="*\\odbcconf.exe" Image="*\\rundll32.exe")))

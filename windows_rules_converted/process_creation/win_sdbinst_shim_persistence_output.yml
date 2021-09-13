@@ -1,0 +1,1 @@
+(EventID="1" (Image="*\\sdbinst.exe" CommandLine="*.sdb*") NOT ((CommandLine="*iisexpressshim.sdb*")))

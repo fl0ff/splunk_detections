@@ -1,0 +1,1 @@
+(EventID="1" ((CommandLine="* tcp 139*" OR CommandLine="* tcp 445*" OR CommandLine="* tcp 3389*" OR CommandLine="* tcp 5985*" OR CommandLine="* tcp 5986*") OR (CommandLine="* start *" CommandLine="*--all*" CommandLine="*--config*" CommandLine="*.yml*") OR ((Image="*ngrok.exe") (CommandLine="* tcp *" OR CommandLine="* http *" OR CommandLine="* authtoken *"))))

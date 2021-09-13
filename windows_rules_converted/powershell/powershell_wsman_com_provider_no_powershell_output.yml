@@ -1,0 +1,1 @@
+(ProviderName="WSMan" NOT (HostApplication="*powershell*"))

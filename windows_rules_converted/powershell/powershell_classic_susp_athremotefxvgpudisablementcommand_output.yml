@@ -1,0 +1,1 @@
+(HostApplication="*Invoke-ATHRemoteFXvGPUDisablementCommand *" (HostApplication="*-ModuleName *" OR HostApplication="*-ModulePath *" OR HostApplication="*-ScriptBlock *" OR HostApplication="*-RemoteFXvGPUDisablementFilePath*")) | table ComputerName,User,CommandLine,ParentCommandLine

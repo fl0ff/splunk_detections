@@ -1,0 +1,1 @@
+(EventID="1" (CommandLine="*-Property DWORD -name DisableFirstRunCustomize -value 2 -Force*" OR CommandLine="*-Property String -name Check_Associations -value*" OR CommandLine="*-Property DWORD -name IEHarden -value 0 -Force*"))

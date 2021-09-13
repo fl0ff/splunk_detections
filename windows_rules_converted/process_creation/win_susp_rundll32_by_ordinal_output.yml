@@ -1,0 +1,1 @@
+(EventID="1" (CommandLine="*\\rundll32.exe*" CommandLine="*,#*") NOT (CommandLine="*EDGEHTML.dll*" CommandLine="*#141*"))

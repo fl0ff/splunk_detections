@@ -1,0 +1,1 @@
+(EventID="11" (((TargetFilename="*\\Microsoft\\Word\\Startup\\*" TargetFilename="*.wll") OR (TargetFilename="*\\Microsoft\\Excel\\Startup\\*" TargetFilename="*.xll")) OR (TargetFilename="*\\Microsoft\\Addins\\*" (TargetFilename="*.xlam" OR TargetFilename="*.xla"))))

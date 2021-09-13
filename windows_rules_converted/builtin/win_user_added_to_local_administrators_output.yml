@@ -1,0 +1,1 @@
+((EventID="4732" (TargetUserName="Administr*" OR TargetSid="S-1-5-32-544")) NOT (SubjectUserName="*$"))

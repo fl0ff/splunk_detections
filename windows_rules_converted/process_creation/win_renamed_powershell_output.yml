@@ -1,0 +1,1 @@
+(EventID="1" ((Description="Windows PowerShell*" OR Description="pwsh*") Company="Microsoft Corporation") NOT ((Image="*\\powershell.exe" OR Image="*\\powershell_ise.exe" OR Image="*\\pwsh.exe")))

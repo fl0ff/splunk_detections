@@ -1,0 +1,1 @@
+(EventID="1" ((Image="*\\tracker.exe") OR (Description="Tracker")) (CommandLine="* /d *") (CommandLine="* /c *"))

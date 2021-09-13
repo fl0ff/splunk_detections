@@ -1,0 +1,1 @@
+(EventID="1" (Image="*\\attrib.exe" CommandLine="* +h *") NOT ((EventID="1" (CommandLine="*\\desktop.ini *" OR (ParentImage="*\\cmd.exe" CommandLine="+R +H +S +A \\*.cui" ParentCommandLine="C:\\WINDOWS\\system32\\*.bat"))))) | table CommandLine,ParentCommandLine,User

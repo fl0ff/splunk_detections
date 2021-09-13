@@ -1,0 +1,1 @@
+(EventID="1" CommandLine="*rundll32.exe*" (CommandLine="*.sys,*" OR CommandLine="*.sys *"))

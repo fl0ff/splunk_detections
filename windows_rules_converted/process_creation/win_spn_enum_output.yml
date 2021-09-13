@@ -1,0 +1,1 @@
+(EventID="1" (Image="*\\setspn.exe" OR (Description="*Query or reset the computer*" Description="*SPN attribute*")) CommandLine="*-q*")

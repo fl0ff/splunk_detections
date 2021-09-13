@@ -1,0 +1,1 @@
+(EventID="1" (Description="Execute processes remotely" Product="Sysinternals PsExec") NOT ((Image="*\\PsExec.exe" OR Image="*\\PsExec64.exe")))

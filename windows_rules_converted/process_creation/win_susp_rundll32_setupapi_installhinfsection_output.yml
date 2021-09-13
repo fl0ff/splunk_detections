@@ -1,0 +1,1 @@
+(EventID="1" Image="*\\runonce.exe" ParentImage="*\\rundll32.exe" ParentCommandLine="*setupapi.dll*" ParentCommandLine="*InstallHinfSection*") | table ComputerName,User,CommandLine,ParentCommandLine

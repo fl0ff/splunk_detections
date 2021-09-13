@@ -1,0 +1,1 @@
+(EventID="1" (CommandLine="*.dll" OR CommandLine="*.csproj") (Image="*\\dotnet.exe")) | table ComputerName,User,CommandLine,ParentCommandLine

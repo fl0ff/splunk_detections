@@ -1,0 +1,1 @@
+(EventID="4104" (ScriptBlockText="*.doc*" OR ScriptBlockText="*.docx*" OR ScriptBlockText="*.xls*" OR ScriptBlockText="*.xlsx*" OR ScriptBlockText="*.ppt*" OR ScriptBlockText="*.pptx*" OR ScriptBlockText="*.rtf*" OR ScriptBlockText="*.pdf*" OR ScriptBlockText="*.txt*") ScriptBlockText="*Get-ChildItem*" ScriptBlockText="* -Recurse *" ScriptBlockText="* -Include *")

@@ -1,0 +1,1 @@
+(EventID="1" (((ParentImage="*\\WINWORD.exe") (Image="*.tmp")) OR (Image="*\\wmic.exe" ParentImage="*\\Temp\\*" CommandLine="*shadowcopy delete") OR (CommandLine="*shadowcopy delete" CommandLine="*\\..\\..\\system32*"))) | table ComputerName,User,Image

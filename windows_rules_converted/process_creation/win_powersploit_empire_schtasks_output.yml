@@ -1,0 +1,1 @@
+(EventID="1" ParentImage="*\\powershell.exe" Image="*\\schtasks.exe" CommandLine="*/Create*" CommandLine="*/SC*" (CommandLine="*ONLOGON*" OR CommandLine="*DAILY*" OR CommandLine="*ONIDLE*" OR CommandLine="*Updater*") CommandLine="*/TN*" CommandLine="*Updater*" CommandLine="*/TR*" CommandLine="*powershell*")

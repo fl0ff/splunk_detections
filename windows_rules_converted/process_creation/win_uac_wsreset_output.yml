@@ -1,0 +1,1 @@
+(EventID="1" ParentImage="*\\wsreset.exe" NOT (Image="*\\conhost.exe"))

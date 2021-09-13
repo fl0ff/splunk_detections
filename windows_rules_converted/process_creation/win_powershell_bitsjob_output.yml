@@ -1,0 +1,1 @@
+(EventID="1" Image="*\\powershell.exe" CommandLine="*Start-BitsTransfer*") | table ComputerName,User,CommandLine

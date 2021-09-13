@@ -1,0 +1,1 @@
+((EventID="17" OR EventID="18") ((PipeName="*\\MSSE-*" PipeName="*-server*") OR PipeName="\\postex_*" OR PipeName="\\postex_ssh_*" OR PipeName="\\status_*" OR PipeName="\\msagent_*"))

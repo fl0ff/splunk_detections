@@ -1,0 +1,1 @@
+(EventID="1" (CommandLine="*\\rundll32.exe" NOT (ParentImage="*\\svchost.exe")) NOT ((ParentImage="*\\AppData\\Local\\*" OR ParentImage="*\\Microsoft\\Edge\\*"))) | table ParentImage,ParentCommandLine

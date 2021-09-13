@@ -1,0 +1,1 @@
+(EventID="11" Image="*UMWorkerProcess.exe" NOT ((TargetFilename="*CacheCleanup.bin" OR TargetFilename="*.txt" OR TargetFilename="*.LOG" OR TargetFilename="*.cfg" OR TargetFilename="*cleanup.bin"))) | table ComputerName,TargetFilename

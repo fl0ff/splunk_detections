@@ -1,0 +1,1 @@
+(EventID="1" (((ParentImage="*\\wmiprvse.exe") (Image="*\\powershell.exe")) NOT (CommandLine="null")) NOT (NOT CommandLine="*"))

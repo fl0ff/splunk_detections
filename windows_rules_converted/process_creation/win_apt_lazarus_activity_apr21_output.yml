@@ -1,0 +1,1 @@
+(EventID="1" ((CommandLine="*mshta*" CommandLine="*.zip*") OR ((ParentImage="C:\\Windows\\System32\\wbem\\wmiprvse.exe") (Image="C:\\Windows\\System32\\mshta.exe")) OR ((ParentImage="*:\\Users\\Public\\*") (Image="C:\\Windows\\System32\\rundll32.exe"))))

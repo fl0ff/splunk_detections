@@ -1,0 +1,1 @@
+((EventID="4657" OR EventID="4656" OR EventID="4663") (ObjectName="*\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\CapabilityAccessManager\\ConsentStore\\microphone\\NonPackaged*" OR ObjectName="*\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\CapabilityAccessManager\\ConsentStore\\webcam\\NonPackaged*"))

@@ -1,0 +1,1 @@
+(EventID="1" (Image="*.doc.exe" OR Image="*.docx.exe" OR Image="*.xls.exe" OR Image="*.xlsx.exe" OR Image="*.ppt.exe" OR Image="*.pptx.exe" OR Image="*.rtf.exe" OR Image="*.pdf.exe" OR Image="*.txt.exe" OR Image="*      .exe" OR Image="*______.exe"))

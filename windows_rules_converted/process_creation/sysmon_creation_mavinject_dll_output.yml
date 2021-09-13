@@ -1,0 +1,1 @@
+(EventID="1" CommandLine="* /INJECTRUNNING*" CommandLine="*.dll*" OriginalFileName="*mavinject*") | table ComputerName,User,CommandLine,ParentCommandLine

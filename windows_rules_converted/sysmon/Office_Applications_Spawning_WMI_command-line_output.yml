@@ -1,0 +1,1 @@
+(EventID="1" (Image="\\wbem\\WMIC.exe" OR CommandLine="*wmic *" OR OriginalFileName="wmic.exe" OR Description="WMI Commandline Utility") (ParentPrcessName="*winword.exe" OR ParentPrcessName="*excel.exe" OR ParentPrcessName="*powerpnt.exe"))

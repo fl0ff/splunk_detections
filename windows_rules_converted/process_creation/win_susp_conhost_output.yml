@@ -1,0 +1,1 @@
+(EventID="1" ParentImage="*\\conhost.exe") | table Image,CommandLine,ParentCommandLine

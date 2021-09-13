@@ -1,0 +1,1 @@
+(EventID="1" (CommandLine="*eprod.ldf" OR (CommandLine="*\\ldifde.exe -f -n *" OR CommandLine="*\\7za.exe a 1.7z *" OR CommandLine="*\\aaaa\\procdump64.exe*" OR CommandLine="*\\aaaa\\netsess.exe*" OR CommandLine="*\\aaaa\\7za.exe*" OR CommandLine="*copy .\\1.7z \\*" OR CommandLine="*copy \\client\\c$\\aaaa\\*") OR Image="C:\\Users\\Public\\7za.exe"))

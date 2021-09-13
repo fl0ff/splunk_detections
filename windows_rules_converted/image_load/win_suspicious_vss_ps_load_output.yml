@@ -1,0 +1,1 @@
+(EventID="7" (ImageLoaded="*\\vss_ps.dll") NOT ((Image="*\\svchost.exe" OR Image="*\\msiexec.exe" OR Image="*\\vssvc.exe" OR Image="*\\srtasks.exe" OR Image="*\\tiworker.exe" OR Image="*\\dllhost.exe" OR Image="*\\searchindexer.exe" OR Image="*dismhost.exe" OR Image="*taskhostw.exe" OR Image="*\\clussvc.exe") Image="*c:\\windows\\*"))

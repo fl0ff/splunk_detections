@@ -1,0 +1,1 @@
+(EventID="11" IntegrityLevel="Medium" ((TargetFilename="*\\Program Files\\*" OR TargetFilename="*\\Program Files (x86)\\*") OR (TargetFilename="\\Windows\\*" NOT (TargetFilename="*temp*"))))

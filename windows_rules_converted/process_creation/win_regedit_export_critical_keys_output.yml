@@ -1,0 +1,1 @@
+(EventID="1" Image="*\\regedit.exe" CommandLine="* /E *" (CommandLine="*hklm*" OR CommandLine="*hkey_local_machine*") (CommandLine="*\\system" OR CommandLine="*\\sam" OR CommandLine="*\\security")) | table ParentImage,CommandLine

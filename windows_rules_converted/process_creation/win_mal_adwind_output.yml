@@ -1,0 +1,3 @@
+(EventID="1" ((CommandLine="*\\AppData\\Roaming\\Oracle*" CommandLine="*\\java*" CommandLine="*.exe *") OR (CommandLine="*cscript.exe*" CommandLine="*Retrive*" CommandLine="*.vbs *")))
+(EventID="11" ((TargetFilename="*\\AppData\\Roaming\\Oracle\\bin\\java*" TargetFilename="*.exe*") OR (TargetFilename="*\\Retrive*" TargetFilename="*.vbs*")))
+((EventID="12" OR EventID="13" OR EventID="14") TargetObject="HKLM\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Run*" Details="%AppData%\\Roaming\\Oracle\\bin\\*")

@@ -1,0 +1,1 @@
+(EventID="7" ImageLoaded="*MicrosoftAccountTokenProvider.dll" NOT ((Image="*BackgroundTaskHost.exe" OR Image="*devenv.exe" OR Image="*iexplore.exe" OR Image="*MicrosoftEdge.exe")))

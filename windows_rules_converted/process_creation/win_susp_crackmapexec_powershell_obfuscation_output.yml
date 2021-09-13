@@ -1,0 +1,1 @@
+(EventID="1" CommandLine="*powershell.exe*" (CommandLine="*join*split*" OR CommandLine="*( $ShellId[1]+$ShellId[13]+'x')*" OR CommandLine="*( $PSHome[*]+$PSHOME[*]+*" OR CommandLine="*( $env:Public[13]+$env:Public[5]+'x')*" OR CommandLine="*( $env:ComSpec[4,*,25]-Join'')*" OR CommandLine="*[1,3]+'x'-Join'')*")) | table ComputerName,User,CommandLine

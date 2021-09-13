@@ -1,0 +1,1 @@
+(EventID="1" (Image="*\\Microsoft.Workflow.Compiler.exe" OR (OriginalFileName="Microsoft.Workflow.Compiler.exe" CommandLine="*.xml*"))) | table CommandLine,ParentCommandLine

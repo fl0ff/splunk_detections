@@ -1,0 +1,1 @@
+(EventID="1" (Image="*\\expand.exe") (CommandLine="*.cab*" OR CommandLine="*/F:*" OR CommandLine="*-F:*" OR CommandLine="*C:\\ProgramData\\*" OR CommandLine="*C:\\Public\\*" OR CommandLine="*\\AppData\\Local\\Temp\\*" OR CommandLine="*\\AppData\\Roaming\\Temp\\*")) | table ComputerName,User,CommandLine,ParentCommandLine

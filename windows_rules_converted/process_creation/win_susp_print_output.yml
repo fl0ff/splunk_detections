@@ -1,0 +1,1 @@
+(EventID="1" ((Image="*\\print.exe") (CommandLine="print*") (CommandLine="*/D*") (CommandLine="*.exe*")) NOT ((CommandLine="*print.exe*")))

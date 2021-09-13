@@ -1,0 +1,1 @@
+(EventID="1" CommandLine="*\\HarddiskVolumeShadowCopy*" CommandLine="*ystem32\\config\\sam*" (CommandLine="*Copy-Item*" OR CommandLine="*cp $_.*" OR CommandLine="*cpi $_.*" OR CommandLine="*copy $_.*" OR CommandLine="*.File]::Copy(*"))

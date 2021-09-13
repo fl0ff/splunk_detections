@@ -1,0 +1,2 @@
+(EventID="3" Image="*\\regsvr32.exe") | table ComputerName,User,Image,DestinationIp,DestinationPort
+(EventID="22" Image="*\\regsvr32.exe") | table ComputerName,User,Image,DestinationIp,DestinationPort

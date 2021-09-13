@@ -1,0 +1,1 @@
+(EventID="11" TargetFilename="*\\AppData\\Local\\Microsoft\\CLR*" TargetFilename="*\\UsageLogs\\*" (TargetFilename="*mshta*" OR TargetFilename="*cscript*" OR TargetFilename="*wscript*" OR TargetFilename="*regsvr32*" OR TargetFilename="*wmic*"))

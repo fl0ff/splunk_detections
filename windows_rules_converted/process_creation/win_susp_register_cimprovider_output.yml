@@ -1,0 +1,1 @@
+(EventID="1" Image="*\\register-cimprovider.exe" CommandLine="*-path*" CommandLine="*dll*") | table CommandLine

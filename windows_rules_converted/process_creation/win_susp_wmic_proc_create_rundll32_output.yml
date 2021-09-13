@@ -1,0 +1,1 @@
+(EventID="1" CommandLine="*process call create*" CommandLine="*rundll32*") | table CommandLine,ParentCommandLine

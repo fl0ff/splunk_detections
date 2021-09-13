@@ -1,0 +1,1 @@
+(EventID="1" (Image="*\\control.exe" (ParentImage="*\\winword.exe" OR ParentImage="*\\powerpnt.exe" OR ParentImage="*\\excel.exe")) NOT (CommandLine="*\\control.exe input.dll"))

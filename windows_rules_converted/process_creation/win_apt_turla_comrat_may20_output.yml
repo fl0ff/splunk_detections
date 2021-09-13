@@ -1,0 +1,1 @@
+(EventID="1" ((CommandLine="*tracert -h 10 yahoo.com*" OR CommandLine="*.WSqmCons))|iex;*" OR CommandLine="*Fr`omBa`se6`4Str`ing*") OR (CommandLine="*net use https://docs.live.net*" CommandLine="*@aol.co.uk*")))

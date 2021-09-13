@@ -1,0 +1,1 @@
+(EventID="1" (CommandLine="copy /y C:\\windows\\system32\\cmd.exe C:\\windows\\system32\\sethc.exe")) | table CommandLine,ParentProcess

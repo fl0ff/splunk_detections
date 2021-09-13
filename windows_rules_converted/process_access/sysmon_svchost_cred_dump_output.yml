@@ -1,0 +1,1 @@
+(EventID="10" (TargetImage="*\\svchost.exe" GrantedAccess="0x143a") NOT ((SourceImage="*\\services.exe" OR SourceImage="*\\msiexec.exe")))

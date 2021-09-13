@@ -1,0 +1,1 @@
+(EventID="3" (DestinationPort="5985" OR DestinationPort="5986") NOT (User="NT AUTHORITY\\NETWORK SERVICE"))

@@ -1,0 +1,1 @@
+(EventID="1" ((CommandLine="*cmd.exe /c *" CommandLine="* -p 0x*" (CommandLine="*C:\\ProgramData\\*" OR CommandLine="*C:\\RECYCLER\\*")) OR (CommandLine="*rundll32.exe *" CommandLine="*C:\\ProgramData\\*" (CommandLine="*.bin,*" OR CommandLine="*.tmp,*" OR CommandLine="*.dat,*" OR CommandLine="*.io,*" OR CommandLine="*.ini,*" OR CommandLine="*.db,*"))))

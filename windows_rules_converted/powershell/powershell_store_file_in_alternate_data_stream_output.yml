@@ -1,0 +1,1 @@
+(EventID="4104" ScriptBlockText="*Start-Process*" ScriptBlockText="*-FilePath \"$env:comspec\" *" ScriptBlockText="*-ArgumentList *" ScriptBlockText="*>*")

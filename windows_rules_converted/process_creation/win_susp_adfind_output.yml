@@ -1,0 +1,1 @@
+(EventID="1" (CommandLine="*objectcategory*" OR CommandLine="*trustdmp*" OR CommandLine="*dcmodes*" OR CommandLine="*dclist*" OR CommandLine="*computers_pwdnotreqd*") Image="*\\adfind.exe")

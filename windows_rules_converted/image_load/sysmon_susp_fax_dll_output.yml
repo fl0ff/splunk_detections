@@ -1,0 +1,1 @@
+(EventID="7" ((Image="*fxssvc.exe") (ImageLoaded="*ualapi.dll")) NOT ((ImageLoaded="C:\\Windows\\WinSxS\\*")))

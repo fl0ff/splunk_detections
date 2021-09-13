@@ -1,0 +1,1 @@
+(EventID="10" TargetImage="*\\lsass.exe" CallTrace="*C:\\Windows\\SYSTEM32\\ntdll.dll+*" CallTrace="*|C:\\Windows\\System32\\KERNELBASE.dll+*" CallTrace="*_ctypes.pyd+*" CallTrace="*python27.dll+*" GrantedAccess="0x1FFFFF")

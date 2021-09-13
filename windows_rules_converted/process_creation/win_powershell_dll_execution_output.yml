@@ -1,0 +1,1 @@
+(EventID="1" ((Image="*\\rundll32.exe") OR (Description="*Windows-Hostprozess (Rundll32)*")) (CommandLine="*Default.GetString*" OR CommandLine="*FromBase64String*"))

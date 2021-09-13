@@ -1,0 +1,1 @@
+(EventID="1" CommandLine="*regsvr32*" CommandLine="*/s*" CommandLine="*/i*" CommandLine="*\\AppData\\Roaming\\*" CommandLine="*.ocx*")

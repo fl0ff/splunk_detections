@@ -1,0 +1,1 @@
+(EventID="1" ((CommandLine="*-Sta*" CommandLine="*-Nop*" CommandLine="*-Window*" CommandLine="*Hidden*" (CommandLine="*-Command*" OR CommandLine="*-EncodedCommand*")) OR (CommandLine="*sv o (New-Object IO.MemorySteam);sv d *" OR CommandLine="*mshta file.hta*" OR CommandLine="*GruntHTTP*" OR CommandLine="*-EncodedCommand cwB2ACAAbwAgA*")))

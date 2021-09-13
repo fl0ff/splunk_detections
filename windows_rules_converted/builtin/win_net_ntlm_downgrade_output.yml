@@ -1,0 +1,2 @@
+((EventID="12" OR EventID="13" OR EventID="14") TargetObject="*SYSTEM\\*" TargetObject="*ControlSet*" TargetObject="*\\Control\\Lsa*" (TargetObject="*\\lmcompatibilitylevel" OR TargetObject="*\\NtlmMinClientSec" OR TargetObject="*\\RestrictSendingNTLMTraffic"))
+(EventID="4657" ObjectName="*\\REGISTRY\\MACHINE\\SYSTEM*" ObjectName="*ControlSet*" ObjectName="*\\Control\\Lsa*" (ObjectValueName="LmCompatibilityLevel" OR ObjectValueName="NtlmMinClientSec" OR ObjectValueName="RestrictSendingNTLMTraffic"))

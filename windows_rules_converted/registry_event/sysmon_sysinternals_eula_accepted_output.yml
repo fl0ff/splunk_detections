@@ -1,0 +1,2 @@
+((EventID="12" OR EventID="13" OR EventID="14") TargetObject="*\\EulaAccepted")
+(EventID="1" CommandLine="* -accepteula*")

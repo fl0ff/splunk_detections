@@ -1,0 +1,1 @@
+((EventID="4742" ServicePrincipalNames="*GC/*") OR (EventID="5136" AttributeLDAPDisplayName="servicePrincipalName" AttributeValue="GC/*"))

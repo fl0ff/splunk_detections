@@ -1,0 +1,1 @@
+(EventID="1" ((CommandLine="*dll,MyStart*" OR CommandLine="*dll MyStart*") OR (EventID="1" (CommandLine="* MyStart") (CommandLine="*rundll32.exe*"))))

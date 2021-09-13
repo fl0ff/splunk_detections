@@ -1,0 +1,1 @@
+((Image="*regsvr32" OR Image="*rundll32" OR Image="*msiexec" OR Image="*mshta" OR Image="*verclsid") (ParentImage="*winword.exe" OR ParentImage="*excel.exe" OR ParentImage="*powerpnt.exe"))

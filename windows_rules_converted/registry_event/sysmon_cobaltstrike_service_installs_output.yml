@@ -1,0 +1,1 @@
+((EventID="12" OR EventID="13" OR EventID="14") EventType="SetValue" TargetObject="*HKLM\\System\\CurrentControlSet\\Services*" ((Details="*ADMIN$*" Details="*.exe*") OR (Details="*%COMSPEC%*" Details="*start*" Details="*powershell*")))

@@ -1,0 +1,1 @@
+(EventID="1" Image="*\\sc.exe" IntegrityLevel="Medium" ((CommandLine="*config*" CommandLine="*binPath*") OR (CommandLine="*failure*" CommandLine="*command*")))

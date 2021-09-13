@@ -1,0 +1,1 @@
+(EventID="1" (Image="*\\csc.exe" (CommandLine="*\\AppData\\*" OR CommandLine="*\\Windows\\Temp\\*")) NOT (ParentImage="C:\\Program Files*" OR (ParentImage="*\\sdiagnhost.exe" OR ParentImage="*\\w3wp.exe") OR (ParentCommandLine="*\\ProgramData\\Microsoft\\Windows Defender Advanced Threat Protection*")))

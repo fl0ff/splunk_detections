@@ -1,0 +1,1 @@
+(EventID="1" (CommandLine="*Stop-Service *" OR CommandLine="*Remove-Service *") (CommandLine="* McAfeeDLPAgentService*" OR CommandLine="* Trend Micro Deep Security Manager*" OR CommandLine="* TMBMServer*")) | table ComputerName,User,CommandLine,ParentCommandLine

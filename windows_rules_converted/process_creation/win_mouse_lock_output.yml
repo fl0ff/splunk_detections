@@ -1,0 +1,1 @@
+(EventID="1" (Product="*Mouse Lock*" OR Company="*Misc314*" OR CommandLine="*Mouse Lock_*")) | table Product,Company,CommandLine

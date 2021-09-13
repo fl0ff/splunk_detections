@@ -1,0 +1,1 @@
+((EventID="4742" SubjectUserName="ANONYMOUS LOGON" TargetUserName="%DC-MACHINE-NAME%") NOT (PasswordLastSet="-"))

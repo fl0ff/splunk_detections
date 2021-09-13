@@ -1,0 +1,1 @@
+(EventID="1" OriginalFileName="MpCmdRun.exe" CommandLine="* -RemoveDefinitions*" CommandLine="* -All*") | table ComputerName,User,CommandLine,ParentCommandLine

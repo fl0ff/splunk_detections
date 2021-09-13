@@ -1,0 +1,1 @@
+(EventID="1" ((ParentImage="*\\WINWORD.EXE" OR ParentImage="*\\EXCEL.EXE" OR ParentImage="*\\POWERPNT.exe" OR ParentImage="*\\MSPUB.exe" OR ParentImage="*\\VISIO.exe") Image="C:\\users\\*" Image="*.exe") NOT (Image="*\\Teams.exe")) | table CommandLine,ParentCommandLine

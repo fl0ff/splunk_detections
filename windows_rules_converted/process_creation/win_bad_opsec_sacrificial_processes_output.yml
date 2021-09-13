@@ -1,0 +1,1 @@
+(EventID="1" ((Image="*\\WerFault.exe" CommandLine="*\\WerFault.exe") OR (Image="*\\rundll32.exe" CommandLine="*\\rundll32.exe") OR (Image="*\\regsvcs.exe" CommandLine="*\\regsvcs.exe") OR (Image="*\\regasm.exe" CommandLine="*\\regasm.exe") OR (Image="*\\regsvr32.exe" CommandLine="*\\regsvr32.exe"))) | table ParentImage,ParentCommandLine

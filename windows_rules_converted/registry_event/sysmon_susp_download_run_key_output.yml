@@ -1,0 +1,1 @@
+((EventID="12" OR EventID="13" OR EventID="14") (Image="*\\Downloads\\*" OR Image="*\\Temporary Internet Files\\Content.Outlook\\*" OR Image="*\\Local Settings\\Temporary Internet Files\\*") TargetObject="*\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Run\\*")

@@ -1,0 +1,1 @@
+(EventID="1" ((Image="*:\\RECYCLER\\*" OR Image="*:\\SystemVolumeInformation\\*") OR (Image="C:\\Windows\\Tasks\\*" OR Image="C:\\Windows\\debug\\*" OR Image="C:\\Windows\\fonts\\*" OR Image="C:\\Windows\\help\\*" OR Image="C:\\Windows\\drivers\\*" OR Image="C:\\Windows\\addins\\*" OR Image="C:\\Windows\\cursors\\*" OR Image="C:\\Windows\\system32\\tasks\\*")))

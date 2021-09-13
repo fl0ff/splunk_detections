@@ -1,0 +1,1 @@
+(EventID="1" (Image="*\\schtasks.exe" CommandLine="* /create *") NOT ((User="NT AUTHORITY\\SYSTEM*" OR User="AUTORITE NT\\Sys*"))) | table CommandLine,ParentCommandLine

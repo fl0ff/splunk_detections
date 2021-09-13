@@ -1,0 +1,1 @@
+(EventID="11" (TargetFilename="*gthread-3.6.dll*" OR TargetFilename="*sigcmm-2.4.dll*" OR TargetFilename="*\\Windows\\Temp\\tmp.bat*"))

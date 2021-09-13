@@ -1,0 +1,1 @@
+(EventID="1" Image="*\\cmdkey.exe" CommandLine="* /list*") | table CommandLine,ParentCommandLine,User

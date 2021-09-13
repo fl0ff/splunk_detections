@@ -1,0 +1,1 @@
+(EventID="1" (ParentImage="*\\userinit.exe" NOT (CommandLine="*\\netlogon\\*")) NOT (Image="*\\explorer.exe")) | table CommandLine,ParentCommandLine

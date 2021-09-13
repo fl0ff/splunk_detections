@@ -1,0 +1,1 @@
+(EventID="1" ((Image="*\\powershell.exe" CommandLine="*Pester*" CommandLine="*Get-Help*") OR (EventID="1" Image="*\\cmd.exe" CommandLine="*pester*" CommandLine="*;*" (CommandLine="*help*" OR CommandLine="*?*"))))

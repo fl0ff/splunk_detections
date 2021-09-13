@@ -1,0 +1,1 @@
+((EventID="4768" Status="0x6") NOT (TargetUserName="*$")) | eventstats dc(TargetUserName) as val by IpAddress | search val > 10

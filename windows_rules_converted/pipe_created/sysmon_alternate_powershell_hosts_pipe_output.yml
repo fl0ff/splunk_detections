@@ -1,0 +1,1 @@
+((EventID="17" OR EventID="18") PipeName="\\PSHost*" NOT ((Image="*\\powershell.exe" OR Image="*\\powershell_ise.exe"))) | table ComputerName,User,Image,PipeName

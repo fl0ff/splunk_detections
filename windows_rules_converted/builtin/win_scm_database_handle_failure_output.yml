@@ -1,0 +1,1 @@
+((EventID="4656" ObjectType="SC_MANAGER OBJECT" ObjectName="servicesactive" Keywords="Audit Failure") NOT (SubjectLogonId="0x3e4"))

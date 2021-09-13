@@ -1,0 +1,1 @@
+(EventID="1" (ParentImage="*\\w3wp.exe" OR ParentImage="*\\httpd.exe" OR ParentImage="*\\nginx.exe" OR ParentImage="*\\php-cgi.exe" OR ParentImage="*\\tomcat.exe" OR ParentImage="*\\UMWorkerProcess.exe") (Image="*\\cmd.exe" OR Image="*\\sh.exe" OR Image="*\\bash.exe" OR Image="*\\powershell.exe" OR Image="*\\bitsadmin.exe")) | table CommandLine,ParentCommandLine

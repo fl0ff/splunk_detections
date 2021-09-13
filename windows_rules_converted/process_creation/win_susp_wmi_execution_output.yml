@@ -1,0 +1,1 @@
+(EventID="1" Image="*\\wmic.exe" ((CommandLine="*process*" CommandLine="*call*" CommandLine="*create *") OR (CommandLine="* path *" (CommandLine="*AntiVirus*" OR CommandLine="*Firewall*") CommandLine="*Product*" CommandLine="* get *"))) | table CommandLine,ParentCommandLine

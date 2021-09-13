@@ -1,0 +1,1 @@
+(EventID="1" CommandLine="* -ma *" ((EventID="1" CommandLine="* lsass*") OR CommandLine="* ls*"))

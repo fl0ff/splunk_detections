@@ -1,0 +1,1 @@
+(EventID="1" (Image="*\\powerpnt.exe" OR Image="*\\winword.exe" OR Image="*\\excel.exe") CommandLine="*http*")

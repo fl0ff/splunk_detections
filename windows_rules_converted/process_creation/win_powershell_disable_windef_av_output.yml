@@ -1,0 +1,1 @@
+(EventID="1" ((Image="*\\powershell.exe" (CommandLine="*-DisableBehaviorMonitoring $true*" OR CommandLine="*-DisableRuntimeMonitoring $true*")) OR (CommandLine="*sc*" CommandLine="*stop*" CommandLine="*WinDefend*") OR (CommandLine="*sc*" CommandLine="*config*" CommandLine="*WinDefend*" CommandLine="*start=disabled*")))

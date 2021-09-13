@@ -1,0 +1,1 @@
+(EventID="4103" ContextInfo="*Compress-Archive *" ContextInfo="* -Path *" ContextInfo="* -DestinationPath *" ContextInfo="*$env:TEMP\\*")

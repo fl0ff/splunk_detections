@@ -1,0 +1,1 @@
+(EventID="1" Image="*\\cmd.exe" CommandLine="*http*" CommandLine="*://*" CommandLine="*%AppData%*") | table CommandLine,ParentCommandLine

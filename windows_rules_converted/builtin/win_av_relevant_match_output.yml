@@ -1,0 +1,1 @@
+(("HTool-" OR "Hacktool" OR "ASP/Backdoor" OR "JSP/Backdoor" OR "PHP/Backdoor" OR "Backdoor.ASP" OR "Backdoor.JSP" OR "Backdoor.PHP" OR "Webshell" OR "Portscan" OR "Mimikatz" OR "WinCred" OR "PlugX" OR "Korplug" OR "Pwdump" OR "Chopper" OR "WmiExec" OR "Xscan" OR "Clearlog" OR "ASPXSpy") NOT ("Keygen" OR "Crack"))

@@ -1,0 +1,1 @@
+(EventID="1" (Image="*\\wwwroot\\*" OR Image="*\\wmpub\\*" OR Image="*\\htdocs\\*") NOT ((Image="*bin\\*" OR Image="*\\Tools\\*" OR Image="*\\SMSComponent\\*") (ParentImage="*\\services.exe"))) | table CommandLine,ParentCommandLine

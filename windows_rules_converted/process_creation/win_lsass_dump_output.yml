@@ -1,0 +1,1 @@
+(EventID="1" (((CommandLine="*lsass*" CommandLine="*.dmp*") NOT (Image="*\\werfault.exe")) OR (Image="*\\procdump*" Image="*.exe" CommandLine="*lsass*"))) | table ComputerName,User,CommandLine

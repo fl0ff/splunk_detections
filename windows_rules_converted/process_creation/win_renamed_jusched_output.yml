@@ -1,0 +1,1 @@
+(EventID="1" (EventID="1" (Description="Java Update Scheduler" OR Description="Java(TM) Update Scheduler")) NOT ((Image="*\\jusched.exe")))

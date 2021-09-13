@@ -1,0 +1,1 @@
+(("New-ExchangeCertificate" " -GenerateRequest" " -BinaryEncoded" " -RequestFile") ("\\\\localhost\\C$" OR "\\\\127.0.0.1\\C$" OR "C:\\inetpub" OR ".aspx"))

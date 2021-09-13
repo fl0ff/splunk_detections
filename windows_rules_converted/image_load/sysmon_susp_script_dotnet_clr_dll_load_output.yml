@@ -1,0 +1,1 @@
+(EventID="7" (Image="*\\wscript.exe" OR Image="*\\cscript.exe" OR Image="*\\mshta.exe") (ImageLoaded="*\\clr.dll" OR ImageLoaded="*\\mscoree.dll" OR ImageLoaded="*\\mscorlib.dll"))

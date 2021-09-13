@@ -1,0 +1,2 @@
+(EventID="1" (CommandLine="*Invoke-WebRequest*" OR CommandLine="*iwr *" OR CommandLine="*wget *" OR CommandLine="*curl *" OR CommandLine="*Net.WebClient*" OR CommandLine="*Start-BitsTransfer*"))
+(EventID="4104" (ScriptBlockText="*Invoke-WebRequest*" OR ScriptBlockText="*iwr *" OR ScriptBlockText="*wget *" OR ScriptBlockText="*curl *" OR ScriptBlockText="*Net.WebClient*" OR ScriptBlockText="*Start-BitsTransfer*"))

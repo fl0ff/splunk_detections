@@ -1,0 +1,1 @@
+(EventID="1" (Image="*\\rpcping.exe" (CommandLine="*-s*" OR CommandLine="*/s*")) ((CommandLine="*-u*" CommandLine="*NTLM*") OR (CommandLine="*/u*" CommandLine="*NTLM*") OR (CommandLine="*-t*" CommandLine="*ncacn_np*") OR (CommandLine="*/t*" CommandLine="*ncacn_np*")))

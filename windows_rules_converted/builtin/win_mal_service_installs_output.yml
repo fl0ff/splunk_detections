@@ -1,0 +1,2 @@
+(EventID="7045" (ServiceFileName="*\\PAExec*" OR ServiceName="mssecsvc2.0" OR ServiceFileName="*net user*" OR ServiceName="Java(TM) Virtual Machine Support Service"))
+(EventID="4697" ServiceName="javamtsup")

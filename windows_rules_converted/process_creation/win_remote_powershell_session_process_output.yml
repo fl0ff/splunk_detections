@@ -1,0 +1,1 @@
+(EventID="1" (Image="*\\wsmprovhost.exe" OR ParentImage="*\\wsmprovhost.exe")) | table ComputerName,User,CommandLine

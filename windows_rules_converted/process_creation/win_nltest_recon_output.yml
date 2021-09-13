@@ -1,0 +1,1 @@
+(EventID="1" Image="*\\nltest.exe" ((CommandLine="*/server*" CommandLine="*/query*") OR (CommandLine="*/dclist:*" OR CommandLine="*/parentdomain*" OR CommandLine="*/domain_trusts*" OR CommandLine="*/user*"))) | table Image,User,CommandLine,ParentCommandLine

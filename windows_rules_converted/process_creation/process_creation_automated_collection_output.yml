@@ -1,0 +1,1 @@
+(EventID="1" (CommandLine="*.doc*" OR CommandLine="*.docx*" OR CommandLine="*.xls*" OR CommandLine="*.xlsx*" OR CommandLine="*.ppt*" OR CommandLine="*.pptx*" OR CommandLine="*.rtf*" OR CommandLine="*.pdf*" OR CommandLine="*.txt*") ((CommandLine="*dir *" CommandLine="* /b *" CommandLine="* /s *") OR (OriginalFileName="FINDSTR.EXE" CommandLine="* /e *")))

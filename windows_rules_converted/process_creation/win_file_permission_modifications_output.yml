@@ -1,0 +1,1 @@
+(EventID="1" (((Image="*\\takeown.exe" OR Image="*\\cacls.exe" OR Image="*\\icacls.exe") CommandLine="*/grant*") OR (Image="*\\attrib.exe" CommandLine="*-r*"))) | table ComputerName,User,CommandLine

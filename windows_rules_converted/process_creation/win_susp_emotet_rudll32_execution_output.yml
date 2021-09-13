@@ -1,0 +1,1 @@
+(EventID="1" ((Image="*\\rundll32.exe") (CommandLine="*,RunDLL")) NOT ((ParentImage="*\\tracker.exe")))

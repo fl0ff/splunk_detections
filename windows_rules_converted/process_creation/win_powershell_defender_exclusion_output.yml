@@ -1,0 +1,1 @@
+(EventID="1" ((EventID="1" CommandLine="*Add-MpPreference *" (CommandLine="* -ExclusionPath *" OR CommandLine="* -ExclusionExtension *" OR CommandLine="* -ExclusionProcess *")) OR (CommandLine="*QWRkLU1wUHJlZmVyZW5jZ*" OR CommandLine="*FkZC1NcFByZWZlcmVuY2*" OR CommandLine="*BZGQtTXBQcmVmZXJlbmNl*")))

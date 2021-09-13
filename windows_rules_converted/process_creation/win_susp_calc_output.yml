@@ -1,0 +1,1 @@
+(EventID="1" (CommandLine="*\\calc.exe *" OR (EventID="1" Image="*\\calc.exe" NOT (Image="*\\Windows\\Sys*"))))

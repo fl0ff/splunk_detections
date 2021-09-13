@@ -1,0 +1,1 @@
+(EventID="7" ((EventID="7" ((ImageLoaded="*\\WsmSvc.dll" OR ImageLoaded="*\\WsmAuto.dll" OR ImageLoaded="*\\Microsoft.WSMan.Management.ni.dll") OR (OriginalFileName="WsmSvc.dll" OR OriginalFileName="WSMANAUTOMATION.DLL" OR OriginalFileName="Microsoft.WSMan.Management.dll")) NOT (Image="*\\powershell.exe")) OR (Image="*\\svchost.exe" OriginalFileName="WsmWmiPl.dll")))

@@ -1,0 +1,1 @@
+(EventID="1" CommandLine="*New-MailboxExport*" CommandLine="* -Mailbox *" CommandLine="* -FilePath \\127.0.0.1\\C$*") | table CommandLine,ParentCommandLine

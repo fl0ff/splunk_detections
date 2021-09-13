@@ -1,0 +1,1 @@
+(EventID="1" ((CommandLine="*.cpl" NOT ((CommandLine="*\\System32\\*" OR CommandLine="*%System%*"))) OR (Image="*\\reg.exe" CommandLine="*add*" (CommandLine="*CurrentVersion\\Control Panel\\CPLs*"))))

@@ -1,0 +1,1 @@
+(EventID="1" ((EventID="1" CommandLine="* /lockscreenurl:*" NOT ((CommandLine="*.jpg*" OR CommandLine="*.jpeg*" OR CommandLine="*.png*"))) OR (CommandLine="*reg delete*" CommandLine="*\\PersonalizationCSP*"))) | table CommandLine,ParentCommandLine

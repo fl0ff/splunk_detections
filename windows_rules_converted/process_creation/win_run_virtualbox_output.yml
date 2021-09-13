@@ -1,0 +1,1 @@
+(EventID="1" ((CommandLine="*VBoxRT.dll,RTR3Init*" OR CommandLine="*VBoxC.dll*" OR CommandLine="*VBoxDrv.sys*") OR (CommandLine="*startvm*" OR CommandLine="*controlvm*"))) | table ComputerName,User,CommandLine,ParentCommandLine

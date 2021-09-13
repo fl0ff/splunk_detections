@@ -1,0 +1,1 @@
+(EventID="1" ((Image="*\\nltest.exe" (CommandLine="*domain_trusts*" OR CommandLine="*all_trusts*" OR CommandLine="*/dclist*")) OR (Image="*\\dsquery.exe" CommandLine="*trustedDomain*") OR (Image="*\\dsquery.exe" CommandLine="*-filter*" CommandLine="*trustedDomain*")))

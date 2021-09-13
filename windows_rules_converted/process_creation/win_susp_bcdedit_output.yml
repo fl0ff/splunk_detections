@@ -1,0 +1,1 @@
+(EventID="1" Image="*\\bcdedit.exe" (CommandLine="*delete*" OR CommandLine="*deletevalue*" OR CommandLine="*import*" OR CommandLine="*safeboot*" OR CommandLine="*network*"))

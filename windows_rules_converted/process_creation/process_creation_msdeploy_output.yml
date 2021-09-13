@@ -1,0 +1,1 @@
+(EventID="1" CommandLine="*verb:sync*" CommandLine="*-source:RunCommand*" CommandLine="*-dest:runCommand*" (Image="*\\msdeploy.exe")) | table ComputerName,User,CommandLine,ParentCommandLine

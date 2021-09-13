@@ -1,0 +1,1 @@
+(EventID="1" OriginalFileName="sdelete.exe" NOT ((CommandLine="* -h*" OR CommandLine="* -c*" OR CommandLine="* -z*" OR CommandLine="* /?*"))) | table ComputerName,User,CommandLine,ParentCommandLine

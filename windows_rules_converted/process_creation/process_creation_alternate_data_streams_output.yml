@@ -1,0 +1,1 @@
+(EventID="1" CommandLine="*txt:*" ((CommandLine="*type *" CommandLine="* > *") OR (CommandLine="*makecab *" CommandLine="*.cab*") OR (CommandLine="*reg *" CommandLine="* export *") OR (CommandLine="*regedit *" CommandLine="* /E *") OR (CommandLine="*esentutl *" CommandLine="* /y *" CommandLine="* /d *" CommandLine="* /o *")))

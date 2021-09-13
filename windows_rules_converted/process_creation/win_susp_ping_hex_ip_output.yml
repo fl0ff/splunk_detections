@@ -1,0 +1,1 @@
+(EventID="1" Image="*\\ping.exe" CommandLine="*0x*") | table ParentCommandLine

@@ -1,0 +1,1 @@
+(EventID="1" (((Image="*\\robocopy.exe" OR Image="*\\xcopy.exe") OR (Image="*\\cmd.exe" CommandLine="*copy*")) OR (Image="*\\powershell*" (CommandLine="*copy-item*" OR CommandLine="*copy*" OR CommandLine="*cpi *" OR CommandLine="* cp *"))) (CommandLine="*\\\\\*" CommandLine="*$*")) | table CommandLine,ParentCommandLine

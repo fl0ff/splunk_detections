@@ -1,0 +1,1 @@
+(EventID="1" Image="*\\chcp.com" (CommandLine="* 936" OR CommandLine="* 1258")) | table ParentCommandLine

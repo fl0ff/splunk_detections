@@ -1,0 +1,1 @@
+(EventID="1" ParentImage="*\\powershell.exe" Image="*\\powershell.exe" CommandLine="*Get-Content*" CommandLine="*-Stream*")

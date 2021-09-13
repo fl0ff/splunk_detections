@@ -1,0 +1,1 @@
+(EventID="4104" (ScriptBlockText="*Remove-SmbShare*" OR ScriptBlockText="*Remove-FileShare*"))

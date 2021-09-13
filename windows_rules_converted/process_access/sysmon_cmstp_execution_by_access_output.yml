@@ -1,0 +1,1 @@
+(EventID="10" CallTrace="*cmlua.dll*") | table CommandLine,ParentCommandLine,Details

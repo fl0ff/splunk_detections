@@ -1,0 +1,1 @@
+((EventID="4656" OR EventID="4663") ObjectType="key" (ObjectName="*lsa\\JD" OR ObjectName="*lsa\\GBG" OR ObjectName="*lsa\\Skew1" OR ObjectName="*lsa\\Data"))

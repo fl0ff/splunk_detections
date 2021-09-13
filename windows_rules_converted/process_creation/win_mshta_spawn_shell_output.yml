@@ -1,0 +1,1 @@
+(EventID="1" ParentImage="*\\mshta.exe" ((Image="*\\cmd.exe" OR Image="*\\powershell.exe" OR Image="*\\wscript.exe" OR Image="*\\cscript.exe" OR Image="*\\sh.exe" OR Image="*\\bash.exe" OR Image="*\\reg.exe" OR Image="*\\regsvr32.exe") OR (Image="*\\BITSADMIN*"))) | table CommandLine,ParentCommandLine

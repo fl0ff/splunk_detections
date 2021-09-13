@@ -1,0 +1,1 @@
+(EventID="1" (CommandLine="*MpCmdRun.exe*" OR Description="Microsoft Malware Protection Command Line Utility") (CommandLine="*DownloadFile*" CommandLine="*url*")) | table CommandLine

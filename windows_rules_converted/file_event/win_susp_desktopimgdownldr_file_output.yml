@@ -1,0 +1,1 @@
+(EventID="11" ((Image="*svchost.exe" TargetFilename="*\\Personalization\\LockScreenImage\\*") NOT (TargetFilename="*C:\\Windows\\*")) NOT ((TargetFilename="*.jpg*" OR TargetFilename="*.jpeg*" OR TargetFilename="*.png*"))) | table CommandLine,ParentCommandLine

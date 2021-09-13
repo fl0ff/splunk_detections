@@ -1,0 +1,1 @@
+(EventID="1" Image="*\\auditpol.exe" (CommandLine="*disable*" OR CommandLine="*clear*" OR CommandLine="*remove*" OR CommandLine="*restore*"))

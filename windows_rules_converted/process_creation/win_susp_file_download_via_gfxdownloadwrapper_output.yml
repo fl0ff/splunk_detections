@@ -1,0 +1,1 @@
+(EventID="1" (Image="*\\GfxDownloadWrapper.exe" NOT (CommandLine="*gameplayapi.intel.com*")) NOT (ParentImage="*\\GfxDownloadWrapper.exe")) | table CommandLine

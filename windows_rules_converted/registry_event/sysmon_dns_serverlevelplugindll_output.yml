@@ -1,0 +1,2 @@
+((EventID="12" OR EventID="13" OR EventID="14") TargetObject="*\\services\\DNS\\Parameters\\ServerLevelPluginDll") | table EventID,CommandLine,ParentCommandLine,Image,User,TargetObject
+(EventID="1" Image="*\\dnscmd.exe" CommandLine="*/config*" CommandLine="*/serverlevelplugindll*") | table EventID,CommandLine,ParentCommandLine,Image,User,TargetObject

@@ -1,0 +1,1 @@
+((EventID="12" OR EventID="13" OR EventID="14") TargetObject="HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Run\\ntkd")

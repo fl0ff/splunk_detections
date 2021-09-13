@@ -1,0 +1,1 @@
+(EventID="1" CommandLine="*Invoke-ATHRemoteFXvGPUDisablementCommand *" (CommandLine="*-ModuleName *" OR CommandLine="*-ModulePath *" OR CommandLine="*-ScriptBlock *" OR CommandLine="*-RemoteFXvGPUDisablementFilePath*")) | table ComputerName,User,CommandLine,ParentCommandLine

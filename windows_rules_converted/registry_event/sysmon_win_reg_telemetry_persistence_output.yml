@@ -1,0 +1,1 @@
+((EventID="12" OR EventID="13" OR EventID="14") (TargetObject="*\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\AppCompatFlags\\TelemetryController\\*" TargetObject="*\\Command*" Details="*.exe*") NOT ((Details="*\\system32\\CompatTelRunner.exe*" OR Details="*\\system32\\DeviceCensus.exe*")))

@@ -1,0 +1,1 @@
+(EventID="4104" ScriptBlockText="*Get-WmiObject*" (ScriptBlockText="*MSAcpi_ThermalZoneTemperature*" OR ScriptBlockText="*Win32_ComputerSystem*"))

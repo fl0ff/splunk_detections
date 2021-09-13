@@ -1,0 +1,1 @@
+(EventID="1" ((CommandLine="* -name IEHarden *" CommandLine="* -value 0 *") OR (CommandLine="* -name DEPOff *" CommandLine="* -value 1 *") OR (CommandLine="* -name DisableFirstRunCustomize *" CommandLine="* -value 2 *")))

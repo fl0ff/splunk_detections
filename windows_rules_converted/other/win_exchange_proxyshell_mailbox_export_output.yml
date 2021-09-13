@@ -1,0 +1,1 @@
+((("New-MailboxExportRequest" " -Mailbox ") ("-FilePath \"\\localhost\\C$" OR "-FilePath \"\\127.0.0.1\\C$" OR ".aspx")) OR ("New-ManagementRoleAssignment" " -Role \"Mailbox Import Export\"" " -User "))

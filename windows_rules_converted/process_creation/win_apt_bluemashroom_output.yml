@@ -1,0 +1,1 @@
+(EventID="1" CommandLine="*\\AppData\\Local\\*" (CommandLine="*\\regsvr32*" OR CommandLine="*,DllEntry*"))

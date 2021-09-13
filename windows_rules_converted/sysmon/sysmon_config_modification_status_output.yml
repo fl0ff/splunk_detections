@@ -1,0 +1,1 @@
+((EventID="4" OR EventID="16") (State="Stopped" OR "Sysmon config state changed"))

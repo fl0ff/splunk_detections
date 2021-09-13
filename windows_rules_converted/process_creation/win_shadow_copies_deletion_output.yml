@@ -1,0 +1,1 @@
+(EventID="1" CommandLine="*delete*" (((Image="*\\powershell.exe" OR Image="*\\wmic.exe" OR Image="*\\vssadmin.exe" OR Image="*\\diskshadow.exe") CommandLine="*shadow*") OR ((Image="*\\wbadmin.exe") CommandLine="*catalog*" CommandLine="*quiet*"))) | table CommandLine,ParentCommandLine

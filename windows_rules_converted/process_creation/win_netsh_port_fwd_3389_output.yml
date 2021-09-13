@@ -1,0 +1,1 @@
+(EventID="1" Image="*\\netsh.exe" CommandLine="*i*" CommandLine="* p*" CommandLine="*=3389*" CommandLine="* c*")

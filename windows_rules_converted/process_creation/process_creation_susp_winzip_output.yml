@@ -1,0 +1,1 @@
+(EventID="1" (CommandLine="*winzip.exe*" OR CommandLine="*winzip64.exe*") (CommandLine="*-s\"*") (CommandLine="* -min *" OR CommandLine="* -a *"))

@@ -1,0 +1,1 @@
+(EventID="1" CommandLine="*\"\\system32\\cleanmgr.exe /autoclean /d C:" ParentCommandLine="C:\\Windows\\system32\\svchost.exe -k netsvcs -p -s Schedule" (IntegrityLevel="High" OR IntegrityLevel="System"))

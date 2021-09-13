@@ -1,0 +1,1 @@
+(EventID="1" (CommandLine="*shutdown /r /f /t 00*" OR CommandLine="*net stop SuperBackupMan*")) | table ComputerName,User,Image

@@ -1,0 +1,1 @@
+(EventID="7045" ServiceName="BTOBTO" ServiceFileName="*\\execute.bat") | table ServiceName,ServiceFileName

@@ -1,0 +1,2 @@
+(EventID="1" Image="*\\schtasks.exe" (CommandLine="*/delete*" OR CommandLine="*/change*") CommandLine="*/TN*" CommandLine="*\\Microsoft\\Windows\\Defrag\\ScheduledDefrag*")
+(EventID="4701" TaskName="\\Microsoft\\Windows\\Defrag\\ScheduledDefrag")

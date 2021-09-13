@@ -1,0 +1,1 @@
+(EventID="7" (Image="*\\notepad.exe") (ImageLoaded="*\\samlib.dll" OR ImageLoaded="*\\WinSCard.dll"))

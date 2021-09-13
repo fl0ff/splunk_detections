@@ -1,0 +1,1 @@
+(EventID="7" ((Image="*\\svchost.exe") (ImageLoaded="*\\tsmsisrv.dll" OR ImageLoaded="*\\tsvipsrv.dll" OR ImageLoaded="*\\wlbsctrl.dll")) NOT ((ImageLoaded="C:\\Windows\\WinSxS\\*")))

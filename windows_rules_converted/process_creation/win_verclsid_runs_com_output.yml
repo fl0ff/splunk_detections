@@ -1,0 +1,1 @@
+(EventID="1" Image="*\\verclsid.exe" CommandLine="*/C*" CommandLine="*/S*") | table CommandLine

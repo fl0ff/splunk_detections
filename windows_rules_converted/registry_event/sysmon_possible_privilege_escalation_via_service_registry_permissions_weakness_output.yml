@@ -1,0 +1,1 @@
+((EventID="12" OR EventID="13" OR EventID="14") IntegrityLevel="Medium" TargetObject="*\\services\\*" (TargetObject="*\\ImagePath" OR TargetObject="*\\FailureCommand" OR TargetObject="*\\Parameters\\ServiceDll"))

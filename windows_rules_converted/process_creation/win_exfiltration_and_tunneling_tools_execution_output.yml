@@ -1,0 +1,1 @@
+(EventID="1" (Image="*\\plink.exe" OR Image="*\\socat.exe" OR Image="*\\stunnel.exe" OR Image="*\\httptunnel.exe"))

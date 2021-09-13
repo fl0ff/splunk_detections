@@ -1,0 +1,1 @@
+(EventID="1" Image="*\\VBoxDrvInst.exe" CommandLine="*driver*" CommandLine="*executeinf*") | table ComputerName,User,CommandLine,ParentCommandLine

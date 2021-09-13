@@ -1,0 +1,1 @@
+(EventID="11" (TargetFilename="*\\Local\\Microsoft\\Windows\\SchCache\\*" TargetFilename="*.sch") NOT ((Image="C:\\windows\\system32\\svchost.exe" OR Image="C:\\windows\\system32\\dllhost.exe" OR Image="C:\\windows\\system32\\mmc.exe" OR Image="C:\\windows\\system32\\WindowsPowerShell\\v1.0\\powershell.exe" OR Image="C:\\Windows\\CCM\\CcmExec.exe")))

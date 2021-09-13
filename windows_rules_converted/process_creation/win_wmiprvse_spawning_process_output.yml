@@ -1,0 +1,1 @@
+(EventID="1" ((ParentImage="*\\WmiPrvSe.exe" NOT ((LogonId="0x3e7" OR LogonId="null") OR (SubjectLogonId="0x3e7" OR SubjectLogonId="null") OR (User="NT AUTHORITY\\SYSTEM*" OR User="AUTORITE NT\\Sys*") OR (Image="*\\WmiPrvSE.exe" OR Image="*\\WerFault.exe"))) NOT (NOT LogonId="*")) NOT (NOT SubjectLogonId="*"))

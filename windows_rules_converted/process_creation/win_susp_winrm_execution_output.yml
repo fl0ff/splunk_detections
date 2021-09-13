@@ -1,0 +1,1 @@
+(EventID="1" Image="*\\cscript.exe" CommandLine="*winrm*" CommandLine="*invoke Create wmicimv2/Win32_*" CommandLine="*-r:http*")

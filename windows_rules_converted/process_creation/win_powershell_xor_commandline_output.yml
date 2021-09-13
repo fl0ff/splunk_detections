@@ -1,0 +1,1 @@
+(EventID="1" (Description="Windows PowerShell" OR Product="PowerShell Core 6") (CommandLine="*bxor*" OR CommandLine="*join*" OR CommandLine="*char*"))

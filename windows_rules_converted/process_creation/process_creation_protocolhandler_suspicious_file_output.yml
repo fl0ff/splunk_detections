@@ -1,0 +1,1 @@
+(EventID="1" Image="*\\protocolhandler.exe" CommandLine="*\"ms-word*" CommandLine="*.docx\"*") | table ComputerName,User,CommandLine,ParentCommandLine

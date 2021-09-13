@@ -1,0 +1,1 @@
+((EventID="12" OR EventID="13" OR EventID="14") (TargetObject="*\\Keyboard Layout\\Preload\\*" OR TargetObject="*\\Keyboard Layout\\Substitutes\\*") (Details="*00000429*" OR Details="*00050429*" OR Details="*0000042a*"))

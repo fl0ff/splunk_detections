@@ -1,0 +1,1 @@
+(EventID="600" HostApplication="*Set-MpPreference*" (HostApplication="*-DisableRealtimeMonitoring 1*" OR HostApplication="*-DisableBehaviorMonitoring 1*" OR HostApplication="*-DisableScriptScanning 1*" OR HostApplication="*-DisableBlockAtFirstSeen 1*"))

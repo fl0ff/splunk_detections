@@ -1,0 +1,1 @@
+(EventID="5136" AttributeValue="*" (AttributeLDAPDisplayName="primaryInternationalISDNNumber" OR AttributeLDAPDisplayName="otherFacsimileTelephoneNumber" OR AttributeLDAPDisplayName="primaryTelexNumber"))

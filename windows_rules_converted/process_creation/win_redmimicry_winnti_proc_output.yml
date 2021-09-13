@@ -1,0 +1,1 @@
+(EventID="1" (Image="*rundll32.exe*" OR Image="*cmd.exe*") (CommandLine="*gthread-3.6.dll*" OR CommandLine="*\\Windows\\Temp\\tmp.bat*" OR CommandLine="*sigcmm-2.4.dll*"))

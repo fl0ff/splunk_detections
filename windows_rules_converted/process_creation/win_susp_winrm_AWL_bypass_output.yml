@@ -1,0 +1,2 @@
+(EventID="1" CommandLine="*winrm*" (CommandLine="*format:pretty*" OR CommandLine="*format:\"pretty\"*" OR CommandLine="*format:\"text\"*" OR CommandLine="*format:text*") NOT ((Image="C:\\Windows\\System32\\*" OR Image="C:\\Windows\\SysWOW64\\*")))
+(EventID="11" (TargetFilename="*WsmPty.xsl" OR TargetFilename="*WsmTxt.xsl") NOT ((TargetFilename="C:\\Windows\\System32\\*" OR TargetFilename="C:\\Windows\\SysWOW64\\*")))

@@ -1,0 +1,1 @@
+(EventID="1" IntegrityLevel="Medium" (Product="*AccessChk" OR Description="*Reports effective permissions*")) | table IntegrityLevel,Product,Description

@@ -1,0 +1,1 @@
+(EventID="1" (CommandLine="reg query \"HKEY_CURRENT_USER\\Software\\Microsoft\\Terminal Server Client\\Default\"" OR CommandLine="powershell.exe mshta.exe http*" OR CommandLine="cmd.exe /c taskkill /im cmd.exe"))
